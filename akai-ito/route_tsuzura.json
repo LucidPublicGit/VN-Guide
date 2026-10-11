@@ -363,7 +363,32 @@
     "simpleJp": "セーブ13",
     "jpGuide1": "－セーブ⑦－",
     "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
+    "enGuide": "初回ED11回収前に保存。クリア後にここから鏡分岐とTrue Endを回収。"
+  },
+  {
+    "simpleJp": "封じを強化する",
+    "jpGuide1": "「封じを強化する」",
+    "jpGuide2": "封じを強化する",
+    "enGuide": "初回はTrue Endの封印が未解除。"
+  },
+  {
+    "simpleJp": "意識が―もう――",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "意識が―もう――",
+    "enGuide": "初回はこの分岐でED11へ。"
+  },
+  {
+    "simpleJp": "Normal End『此岸と彼岸』（ED11）",
+    "jpGuide1": "エンディングNo.11\nNormal End\n『此岸と彼岸』",
+    "jpGuide2": "此岸と彼岸",
+    "enGuide": "このED11クリアでTrue End選択肢の封印解除。"
+  },
+  {
+    "simpleJp": "セーブ13にロード",
+    "jpGuide1": "－セーブ⑦から－",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
   },
   {
     "simpleJp": "鏡を探してみる",
