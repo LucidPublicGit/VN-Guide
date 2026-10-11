@@ -709,6 +709,20 @@ function findBadEndLabel(steps, loadIdx) {
   return null;
 }
 
+// Show the return instruction on the ending itself, not only on the next slide.
+// An ending before the first save requires a new run, never an invented load.
+function endingReturnInstruction(steps, endingIdx) {
+  const label = steps[endingIdx]?.simpleJp || "";
+  const next = steps[endingIdx + 1];
+  if (!next || !(/(?:Bad|Normal|True)\\s*End/i.test(label) ||
+    /^【.+】END$/i.test(label) || /(?:^|\\s)END$/i.test(label))) return "";
+  if (next.isLoad) return next.simpleJp || "";
+  if (next.simpleJp && next.simpleJp === steps[0]?.simpleJp) {
+    return "最初からやり直す（戻れるセーブなし）";
+  }
+  return "";
+}
+
 function renderSlide() {
   pendingNextRoute = null;
   transitionFromRoute = null;
@@ -730,7 +744,8 @@ function renderSlide() {
     const label = findBadEndLabel(route.steps, idx);
     instrEl.textContent = label ? `${label} ⚠ ${step.simpleJp || ""}` : (step.simpleJp || "");
   } else {
-    instrEl.textContent = step.simpleJp || "";
+    const returnTo = endingReturnInstruction(route.steps, idx);
+    instrEl.textContent = (step.simpleJp || "") + (returnTo ? ` ↩ ${returnTo}` : "");
   }
 
   const hasDetails = step.jpGuide1 || step.jpGuide2 || step.enGuide || step.badEnd || step.badEndPath;
@@ -972,6 +987,9 @@ function renderJump() {
       const label = findBadEndLabel(route.steps, i);
       if (label) { display = `${escHtml(label)} ⚠ ${display}`; }
       else { prefix = '↩ '; }
+    } else {
+      const returnTo = endingReturnInstruction(route.steps, i);
+      if (returnTo) display += ` ↩ ${escHtml(returnTo)}`;
     }
     return `<li><button onclick="jumpTo(${i})">
       <span class="jump-num">${i + 1}</span>
