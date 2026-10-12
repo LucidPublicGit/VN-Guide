@@ -26,8 +26,8 @@
   {
     "simpleJp": "いいえ",
     "jpGuide1": "いいえ",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
+    "jpGuide2": "はい",
+    "enGuide": "Set A says いいえ here; Set B says はい. Both lead to the Chiyo ending along their own walkthrough. Exact branch-state dependence is not verified."
   },
   {
     "simpleJp": "自分から話を切り出す",
