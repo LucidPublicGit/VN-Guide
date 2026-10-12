@@ -620,8 +620,8 @@
   {
     "simpleJp": "はい",
     "jpGuide1": "はい",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
+    "jpGuide2": "いいえ",
+    "enGuide": "Set A chooses はい here; Set B chooses いいえ at the corresponding post-chase choice. Both walkthroughs reach Hinase's ending, but the branch-state dependence is unresolved; this is not a verified exact-target choice."
   },
   {
     "simpleJp": "王子様は王子様だ",
