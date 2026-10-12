@@ -585,12 +585,6 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "後を追いかける",
-    "jpGuide1": "後を追いかける",
-    "jpGuide2": "後を追いかける",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "セーブ6",
     "jpGuide1": "★SAVE３",
     "jpGuide2": "SAVE4",
@@ -616,6 +610,12 @@
     "jpGuide2": "SAVE4より",
     "enGuide": "",
     "isLoad": true
+  },
+  {
+    "simpleJp": "後を追いかける",
+    "jpGuide1": "後を追いかける",
+    "jpGuide2": "後を追いかける",
+    "enGuide": ""
   },
   {
     "simpleJp": "はい",
