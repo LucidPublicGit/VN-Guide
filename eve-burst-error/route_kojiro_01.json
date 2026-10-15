@@ -1687,25 +1687,25 @@
   },
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "話す→二階堂×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n二階堂\n観葉植物\n話す\n二階堂×4",
     "enGuide": ""
   },
   {
     "simpleJp": "あたりの様子",
-    "jpGuide1": "話す→二階堂×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n二階堂\n観葉植物\n話す\n二階堂×4",
     "enGuide": ""
   },
   {
     "simpleJp": "二階堂",
-    "jpGuide1": "話す→二階堂×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n二階堂\n観葉植物\n話す\n二階堂×4",
     "enGuide": ""
   },
   {
     "simpleJp": "観葉植物",
-    "jpGuide1": "話す→二階堂×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n二階堂\n観葉植物\n話す\n二階堂×4",
     "enGuide": ""
   },
@@ -1753,13 +1753,13 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "移動する→外に出る",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n二階堂\n移動\n外に出る",
     "enGuide": ""
   },
   {
     "simpleJp": "二階堂",
-    "jpGuide1": "移動する→外に出る",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n二階堂\n移動\n外に出る",
     "enGuide": ""
   },
@@ -1777,19 +1777,19 @@
   },
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "話す→弥生×７",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\n弥生\nタバコ\n話す\n弥生×7",
     "enGuide": ""
   },
   {
     "simpleJp": "弥生",
-    "jpGuide1": "話す→弥生×７",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\n弥生\nタバコ\n話す\n弥生×7",
     "enGuide": ""
   },
   {
     "simpleJp": "タバコ",
-    "jpGuide1": "話す→弥生×７",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\n弥生\nタバコ\n話す\n弥生×7",
     "enGuide": ""
   },
