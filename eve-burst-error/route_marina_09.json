@@ -1,7 +1,7 @@
 [
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "■ 船倉 (共通)\n見る・調べる",
+    "jpGuide1": "見る・調べる",
     "jpGuide2": "見る・調べる×7",
     "enGuide": ""
   },
@@ -61,13 +61,13 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す×３",
     "jpGuide2": "話す×3",
     "enGuide": ""
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す×３",
     "jpGuide2": "話す×3",
     "enGuide": ""
   },
@@ -79,19 +79,19 @@
   },
   {
     "simpleJp": "たたく",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "叩く×４",
     "jpGuide2": "たたく×4",
     "enGuide": ""
   },
   {
     "simpleJp": "たたく",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "叩く×４",
     "jpGuide2": "たたく×4",
     "enGuide": ""
   },
   {
     "simpleJp": "たたく",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "叩く×４",
     "jpGuide2": "たたく×4",
     "enGuide": ""
   },
@@ -127,7 +127,7 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す×２",
     "jpGuide2": "話す×3\n見る・調べる",
     "enGuide": ""
   },
