@@ -1284,15 +1284,15 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "移動する",
-    "jpGuide1": "移動する→松乃と食堂へ",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "simpleJp": "食べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "食べる\n色々と",
     "enGuide": ""
   },
   {
-    "simpleJp": "松乃と食堂へ",
-    "jpGuide1": "移動する→松乃と食堂へ",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "simpleJp": "色々と",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "食べる\n色々と",
     "enGuide": ""
   },
   {
