@@ -39,12 +39,6 @@
     "simpleJp": "推理を確定する",
     "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "推理を確定する",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "事件解決",
-    "jpGuide1": "（第一ガイドに記載なし）",
-    "jpGuide2": "トロフィー 犯人推理成功 獲得\n\nトロフィー テラー編：12月9日クリア 獲得\n\nトロフィー 事件解決 獲得\n\nトロフィー 全てのトロフィー入手 獲得",
-    "enGuide": ""
+    "enGuide": "Confirm the deduction to finish the Terror finale. The source lists 事件解決 as a trophy award, not a selectable action."
   }
 ]
