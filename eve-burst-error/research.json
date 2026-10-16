@@ -3,20 +3,28 @@
   "vndb_id": "v147",
   "routes": [
     {
-      "id": "marina_01",
-      "title": "まりな編（区間1）",
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
-      "prerequisites": [],
-      "is_true_ending": false,
-      "notes": "Interleaved Marina segment 1. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
-    },
-    {
       "id": "kojiro_01",
       "title": "小次郎編（区間1）",
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 1. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 1 (Kojiro December 3). Continue to marina_01; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
+    },
+    {
+      "id": "marina_01",
+      "title": "まりな編（区間1）",
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "Exact R/Switch source chronology: parts 2–3 (Marina December 2–3). Continue to kojiro_01_day4; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
+    },
+    {
+      "id": "kojiro_01_day4",
+      "title": "小次郎編（12月4日）",
+      "portrait": "https://t.vndb.org/ch/61/131761.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "Exact R/Switch source chronology: part 4 (Kojiro December 4). Continue to marina_02; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_02",
@@ -24,7 +32,23 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 2. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 5 (Marina December 4). Continue to kojiro_01_day5; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
+    },
+    {
+      "id": "kojiro_01_day5",
+      "title": "小次郎編（12月5日）",
+      "portrait": "https://t.vndb.org/ch/61/131761.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "Exact R/Switch source chronology: part 6 (Kojiro December 5). Continue to marina_02_day5; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
+    },
+    {
+      "id": "marina_02_day5",
+      "title": "まりな編（12月5–6日）",
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "Exact R/Switch source chronology: parts 7–8 (Marina December 5–6). Continue to kojiro_02; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_02",
@@ -32,7 +56,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 2. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: parts 9–10 (Kojiro December 5–6). Continue to marina_03; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_03",
@@ -40,7 +64,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 3. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 11 (Marina December 6). Continue to kojiro_03; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_03",
@@ -48,7 +72,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "R/Switch part 12 continues immediately into kojiro_04; the original-release intermediate site-change marker was not a target-version player action."
+      "notes": "Exact R/Switch source chronology: part 12 opening (Kojiro December 6). Continue to kojiro_04; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_04",
@@ -56,7 +80,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 4. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 12 continuation (Kojiro December 6). Continue to marina_04; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_04",
@@ -64,7 +88,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 4. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 13 (Marina December 6). Continue to kojiro_05; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_05",
@@ -72,7 +96,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 5. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 14 (Kojiro December 6). Continue to marina_05; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_05",
@@ -80,7 +104,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 5. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 15 (Marina December 6). Continue to kojiro_06; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_06",
@@ -88,7 +112,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 6. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 16 (Kojiro December 6). Continue to marina_06; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_06",
@@ -96,7 +120,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 6. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: parts 17–18 (Marina December 6–7). Continue to kojiro_07; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_07",
@@ -104,7 +128,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "R/Switch part 19 continues immediately into part 20 (kojiro_08), without switching protagonists."
+      "notes": "Exact R/Switch source chronology: parts 19–20 opening (Kojiro December 6–7). Continue to kojiro_08; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "kojiro_08",
@@ -112,7 +136,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 8. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Exact R/Switch source chronology: part 20 continuation (Kojiro December 7). Continue to marina_07; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_07",
@@ -120,7 +144,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "R/Switch part 21 continues directly from these ship actions into marina_08; no intermediate Kojiro switch is required."
+      "notes": "Exact R/Switch source chronology: part 21 opening (Marina December 7). Continue to marina_08; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_08",
@@ -128,7 +152,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "R/Switch part 21 continues directly from the seven forward actions to the marina_09 inspection sequence, without a Kojiro switch."
+      "notes": "Exact R/Switch source chronology: part 21 continuation (Marina December 7). Continue to marina_09; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "marina_09",
@@ -136,7 +160,7 @@
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved final Marina segment. It begins immediately after Kojiro's last required `まりな編にサイトチェンジ` handoff and completes the dual-protagonist investigation before the shared Terror finale."
+      "notes": "Exact R/Switch source chronology: part 21 finale (Marina December 7). Continue to terror; a protagonist switch is required as a guide action only where the R source explicitly documents it. Adjacent same-protagonist segments are continuous and do not imply a site change."
     },
     {
       "id": "terror",
@@ -152,9 +176,12 @@
     }
   ],
   "recommended_order": [
-    "marina_01",
     "kojiro_01",
+    "marina_01",
+    "kojiro_01_day4",
     "marina_02",
+    "kojiro_01_day5",
+    "marina_02_day5",
     "kojiro_02",
     "marina_03",
     "kojiro_03",
@@ -193,7 +220,7 @@
       "notes": "Supplementary/tertiary Japanese source. Confirmed to organize its walkthrough by calendar date (12/2-12/9) like the other two sources, and links to companion guides for the sequels EVE rebirth terror (EVE2) / EVE ghost enemies (EVE3), confirming this site covers EVE1 (burst error) specifically. Individual date sub-pages returned server errors (503) during this research pass and were not fully read — not fully verified as complete. Should be treated as a cross-check source only, not a primary source, unless re-fetched successfully during guide writing."
     }
   ],
-  "disagreements": "1) EVE burst error is one dual-protagonist Multi-Site story, not two independently completable routes. Fresh structural review showed that the prior monolithic Marina/Kojiro files were impossible to follow linearly because required site-change steps were followed by more actions from the protagonist just left. The guide retains 9 Marina and 8 Kojiro route segments, but later sections are ordered by explicit target-R walkthrough site changes rather than artificially alternating at legacy-only progression gates. Consecutive same-protagonist segments are continuous, not a forced site change. The early Marina-01 boundary remains under independent R-version accuracy review. 2) The prior research modeled a separate `terror_provisional` followed by `terror_true`; fresh author re-check found that split unsupported by either primary source, so the finale remains one `terror` section. 3) The Switch target is covered directly by Set B: its R walkthrough explicitly states applicability to the Nintendo Switch release. 4) No primary source inspected documents conventional mid-scenario bad-end/game-over branches; do not invent them. 5) This interleaving correction changes route structure and invalidates structural and accuracy review for all newly split Marina/Kojiro sections; Terror's content is unchanged but remains `reviewed: false` pending the independent accuracy gate. 6) Exact-target atomic-action reconciliation (2026-09-26): accuracy review found that several legacy Set-A command expansions used different repetition counts/order from the directly inspected R/Switch Set B (for example 12/2 Marina `本部長×5` vs Set B `本部長×6`, and later `本部長×7` vs Set B `本部長×8`). All Marina/Kojiro atomized blocks have now been re-expanded so target-facing `simpleJp` follows the Set-B/R command sequence exactly while `jpGuide1` and `jpGuide2` remain verbatim to their respective source lanes. This changes step counts/order in every affected section, so prior structural and accuracy passes for changed route blobs are stale and must be rerun. `marina_08` and `terror` were not changed by this reconciliation.\n7) R/Switch boundary reconciliation (2026-10-15): Removed unsupported intermediate protagonist switches at Kojiro-03, Kojiro-07, Marina-07, and Marina-08; reordered the final chapters according to Set B parts 12–21. Original-release Set-A unlock gates do not by themselves establish mandatory Switch commands. The earliest Marina-01 post-shower site-change remains unresolved pending source-supported resegmentation; do not certify that boundary without direct R evidence. Sources: https://yellowbrother.seesaa.net/article/440711851.html ; https://yellowbrother.seesaa.net/article/440711904.html ; https://yellowbrother.seesaa.net/article/440711982.html ; https://yellowbrother.seesaa.net/article/440712045.html ; https://yellowbrother.seesaa.net/article/440715190.html ; https://yellowbrother.seesaa.net/article/440739015.html ; https://yellowbrother.seesaa.net/article/440739075.html ; https://yellowbrother.seesaa.net/article/440739467.html ; https://yellowbrother.seesaa.net/article/440745040.html .",
+  "disagreements": "1) The exact authoritative target is EVE burst error R (Nintendo Switch download edition); Set B's author explicitly recommends the walkthrough for the Switch edition. Set A documents the original Windows version and is retained as separately attributed legacy context; older progression-gate positions do not override the R command order.\n2) R's 22-part Japanese walkthrough runs Kojiro December 3 (part 1), Marina December 2–3 (parts 2–3), Kojiro December 4 (part 4), Marina December 4 (part 5), Kojiro December 5 (part 6), Marina December 5–6 (parts 7–8), then alternates at documented site changes through part 20. Marina's part 21 runs continuously through all three final Marina segments; part 22 is the single shared Terror finale. Guide now uses 20 ordered protagonist sections plus one shared finale, preserving continuous same-protagonist chapters without invented site switches.\n3) The earlier Marina shower boundary was an original-release Set-A gate, not an R/Switch mandatory site-change step. R part 5 continues beyond the shower through its December 4 bedtime sequence and explicitly switches to Kojiro afterward. The early route was resegmented accordingly. Early Kojiro's original file conflated R parts 1, 4, and 6; it is now split into three chronological sections, and the omitted R part-1 commands after the street confrontation through the December 3 sleep transition have been restored using Set B. Set A omissions on those target-only atomic actions are explicitly represented with the canonical omission marker.\n4) The previously inserted mid-story switches after Kojiro-03, Kojiro-07, Marina-07, and Marina-08 were removed because R parts 12, 20, and 21 continue directly instead; the guide now puts Kojiro parts 19–20 before Marina part 21 rather than forcing artificial alternation at original-release unlock markers.\n5) Both primary sources support one shared Terror chapter rather than separate provisional/true route split. The optional incident-recap menu is omitted and the verified culprit-input sequence is retained; the trophy title is not a player action.\n6) Neither inspected primary set established conventional mandatory bad-end detours; no such branch is invented. Current source corrections/section reorder invalidate previous structural and accuracy verdicts on affected blobs, and order-sensitive accuracy verification must be fresh for the 21-section guide.\n7) Japanese primary source Set A: https://myst-site.com/eve-be/guide.html (guide01–guide07), original-release differences explicitly attributed. Set B: https://yellowbrother.seesaa.net/article/446152425.html links R parts 1–22 (in particular https://yellowbrother.seesaa.net/article/440678963.html , https://yellowbrother.seesaa.net/article/440681587.html , https://yellowbrother.seesaa.net/article/440687919.html , https://yellowbrother.seesaa.net/article/440706248.html , https://yellowbrother.seesaa.net/article/440706480.html , https://yellowbrother.seesaa.net/article/440710883.html , https://yellowbrother.seesaa.net/article/440710989.html , https://yellowbrother.seesaa.net/article/440739467.html and https://yellowbrother.seesaa.net/article/440745040.html ). Independent full Japanese-source accuracy and structural re-review are still pending; author does not self-approve.",
   "generated_at": "2026-09-26T15:32:00Z",
   "guide_target": {
     "label": "EVE burst error R（Nintendo Switch ダウンロード版）",
