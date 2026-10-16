@@ -48,15 +48,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 3. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
-    },
-    {
-      "id": "marina_04",
-      "title": "まりな編（区間4）",
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
-      "prerequisites": [],
-      "is_true_ending": false,
-      "notes": "Interleaved Marina segment 4. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "R/Switch part 12 continues immediately into kojiro_04; the original-release intermediate site-change marker was not a target-version player action."
     },
     {
       "id": "kojiro_04",
@@ -67,12 +59,12 @@
       "notes": "Interleaved Kojiro segment 4. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
-      "id": "marina_05",
-      "title": "まりな編（区間5）",
+      "id": "marina_04",
+      "title": "まりな編（区間4）",
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 5. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Interleaved Marina segment 4. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
       "id": "kojiro_05",
@@ -83,12 +75,12 @@
       "notes": "Interleaved Kojiro segment 5. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
-      "id": "marina_06",
-      "title": "まりな編（区間6）",
+      "id": "marina_05",
+      "title": "まりな編（区間5）",
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 6. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Interleaved Marina segment 5. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
       "id": "kojiro_06",
@@ -99,12 +91,12 @@
       "notes": "Interleaved Kojiro segment 6. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
-      "id": "marina_07",
-      "title": "まりな編（区間7）",
+      "id": "marina_06",
+      "title": "まりな編（区間6）",
       "portrait": "https://t.vndb.org/ch/39/44339.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Marina segment 7. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "Interleaved Marina segment 6. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
     },
     {
       "id": "kojiro_07",
@@ -112,15 +104,7 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg",
       "prerequisites": [],
       "is_true_ending": false,
-      "notes": "Interleaved Kojiro segment 7. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
-    },
-    {
-      "id": "marina_08",
-      "title": "まりな編（区間8）",
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
-      "prerequisites": [],
-      "is_true_ending": false,
-      "notes": "Interleaved Marina segment 8. This section ends at the source-documented required site change to Kojiro; the next section in recommended_order is the other protagonist's corresponding segment."
+      "notes": "R/Switch part 19 continues immediately into part 20 (kojiro_08), without switching protagonists."
     },
     {
       "id": "kojiro_08",
@@ -129,6 +113,22 @@
       "prerequisites": [],
       "is_true_ending": false,
       "notes": "Interleaved Kojiro segment 8. This section ends at the source-documented required site change to Marina; the next section in recommended_order is the other protagonist's corresponding segment."
+    },
+    {
+      "id": "marina_07",
+      "title": "まりな編（区間7）",
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "R/Switch part 21 continues directly from these ship actions into marina_08; no intermediate Kojiro switch is required."
+    },
+    {
+      "id": "marina_08",
+      "title": "まりな編（区間8）",
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg",
+      "prerequisites": [],
+      "is_true_ending": false,
+      "notes": "R/Switch part 21 continues directly from the seven forward actions to the marina_09 inspection sequence, without a Kojiro switch."
     },
     {
       "id": "marina_09",
@@ -158,16 +158,16 @@
     "kojiro_02",
     "marina_03",
     "kojiro_03",
-    "marina_04",
     "kojiro_04",
-    "marina_05",
+    "marina_04",
     "kojiro_05",
-    "marina_06",
+    "marina_05",
     "kojiro_06",
-    "marina_07",
+    "marina_06",
     "kojiro_07",
-    "marina_08",
     "kojiro_08",
+    "marina_07",
+    "marina_08",
     "marina_09",
     "terror"
   ],
@@ -193,7 +193,7 @@
       "notes": "Supplementary/tertiary Japanese source. Confirmed to organize its walkthrough by calendar date (12/2-12/9) like the other two sources, and links to companion guides for the sequels EVE rebirth terror (EVE2) / EVE ghost enemies (EVE3), confirming this site covers EVE1 (burst error) specifically. Individual date sub-pages returned server errors (503) during this research pass and were not fully read — not fully verified as complete. Should be treated as a cross-check source only, not a primary source, unless re-fetched successfully during guide writing."
     }
   ],
-  "disagreements": "1) EVE burst error is one dual-protagonist Multi-Site story, not two independently completable routes. Fresh structural review showed that the prior monolithic Marina/Kojiro files were impossible to follow linearly because required site-change steps were followed by more actions from the protagonist just left. The guide is now split into 9 Marina segments and 8 Kojiro segments, alternating exactly at every documented site-change handoff, followed by the shared Terror finale. 2) The prior research modeled a separate `terror_provisional` followed by `terror_true`; fresh author re-check found that split unsupported by either primary source, so the finale remains one `terror` section. 3) The Switch target is covered directly by Set B: its R walkthrough explicitly states applicability to the Nintendo Switch release. 4) No primary source inspected documents conventional mid-scenario bad-end/game-over branches; do not invent them. 5) This interleaving correction changes route structure and invalidates structural and accuracy review for all newly split Marina/Kojiro sections; Terror's content is unchanged but remains `reviewed: false` pending the independent accuracy gate. 6) Exact-target atomic-action reconciliation (2026-09-26): accuracy review found that several legacy Set-A command expansions used different repetition counts/order from the directly inspected R/Switch Set B (for example 12/2 Marina `本部長×5` vs Set B `本部長×6`, and later `本部長×7` vs Set B `本部長×8`). All Marina/Kojiro atomized blocks have now been re-expanded so target-facing `simpleJp` follows the Set-B/R command sequence exactly while `jpGuide1` and `jpGuide2` remain verbatim to their respective source lanes. This changes step counts/order in every affected section, so prior structural and accuracy passes for changed route blobs are stale and must be rerun. `marina_08` and `terror` were not changed by this reconciliation.",
+  "disagreements": "1) EVE burst error is one dual-protagonist Multi-Site story, not two independently completable routes. Fresh structural review showed that the prior monolithic Marina/Kojiro files were impossible to follow linearly because required site-change steps were followed by more actions from the protagonist just left. The guide retains 9 Marina and 8 Kojiro route segments, but later sections are ordered by explicit target-R walkthrough site changes rather than artificially alternating at legacy-only progression gates. Consecutive same-protagonist segments are continuous, not a forced site change. The early Marina-01 boundary remains under independent R-version accuracy review. 2) The prior research modeled a separate `terror_provisional` followed by `terror_true`; fresh author re-check found that split unsupported by either primary source, so the finale remains one `terror` section. 3) The Switch target is covered directly by Set B: its R walkthrough explicitly states applicability to the Nintendo Switch release. 4) No primary source inspected documents conventional mid-scenario bad-end/game-over branches; do not invent them. 5) This interleaving correction changes route structure and invalidates structural and accuracy review for all newly split Marina/Kojiro sections; Terror's content is unchanged but remains `reviewed: false` pending the independent accuracy gate. 6) Exact-target atomic-action reconciliation (2026-09-26): accuracy review found that several legacy Set-A command expansions used different repetition counts/order from the directly inspected R/Switch Set B (for example 12/2 Marina `本部長×5` vs Set B `本部長×6`, and later `本部長×7` vs Set B `本部長×8`). All Marina/Kojiro atomized blocks have now been re-expanded so target-facing `simpleJp` follows the Set-B/R command sequence exactly while `jpGuide1` and `jpGuide2` remain verbatim to their respective source lanes. This changes step counts/order in every affected section, so prior structural and accuracy passes for changed route blobs are stale and must be rerun. `marina_08` and `terror` were not changed by this reconciliation.\n7) R/Switch boundary reconciliation (2026-10-15): Removed unsupported intermediate protagonist switches at Kojiro-03, Kojiro-07, Marina-07, and Marina-08; reordered the final chapters according to Set B parts 12–21. Original-release Set-A unlock gates do not by themselves establish mandatory Switch commands. The earliest Marina-01 post-shower site-change remains unresolved pending source-supported resegmentation; do not certify that boundary without direct R evidence. Sources: https://yellowbrother.seesaa.net/article/440711851.html ; https://yellowbrother.seesaa.net/article/440711904.html ; https://yellowbrother.seesaa.net/article/440711982.html ; https://yellowbrother.seesaa.net/article/440712045.html ; https://yellowbrother.seesaa.net/article/440715190.html ; https://yellowbrother.seesaa.net/article/440739015.html ; https://yellowbrother.seesaa.net/article/440739075.html ; https://yellowbrother.seesaa.net/article/440739467.html ; https://yellowbrother.seesaa.net/article/440745040.html .",
   "generated_at": "2026-09-26T15:32:00Z",
   "guide_target": {
     "label": "EVE burst error R（Nintendo Switch ダウンロード版）",
