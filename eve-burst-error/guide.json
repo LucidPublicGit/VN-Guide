@@ -39,20 +39,14 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
-      "id": "marina_04",
-      "title": "まりな編（区間4）",
-      "reviewed": false,
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
-    },
-    {
       "id": "kojiro_04",
       "title": "小次郎編（区間4）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
-      "id": "marina_05",
-      "title": "まりな編（区間5）",
+      "id": "marina_04",
+      "title": "まりな編（区間4）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
@@ -63,8 +57,8 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
-      "id": "marina_06",
-      "title": "まりな編（区間6）",
+      "id": "marina_05",
+      "title": "まりな編（区間5）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
@@ -75,8 +69,8 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
-      "id": "marina_07",
-      "title": "まりな編（区間7）",
+      "id": "marina_06",
+      "title": "まりな編（区間6）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
@@ -87,16 +81,22 @@
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
-      "id": "marina_08",
-      "title": "まりな編（区間8）",
-      "reviewed": false,
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
-    },
-    {
       "id": "kojiro_08",
       "title": "小次郎編（区間8）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
+    },
+    {
+      "id": "marina_07",
+      "title": "まりな編（区間7）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
+    },
+    {
+      "id": "marina_08",
+      "title": "まりな編（区間8）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "marina_09",
