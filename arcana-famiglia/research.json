@@ -46,7 +46,7 @@
       "id": "jolly",
       "title": "ジョーリィルート",
       "portrait": "https://t.vndb.org/ch/93/9093.jpg",
-      "prerequisites": [],
+      "prerequisites": ["初期5人のうち誰か1人のルートをクリアし、2周目以降に進む"],
       "is_true_ending": false,
       "notes": "Jolly ordinary route unlocks on the second playthrough after any one completed run. Parche is only the first recommended route, not a required character clear. Jolly is placed before Dante to support later special-ending collection."
     },
@@ -54,7 +54,7 @@
       "id": "dante",
       "title": "ダンテルート",
       "portrait": "https://t.vndb.org/ch/92/9092.jpg",
-      "prerequisites": [],
+      "prerequisites": ["初期5人のうち誰か1人のルートをクリアし、2周目以降に進む"],
       "is_true_ending": true,
       "notes": "Dante ordinary route unlocks on the second playthrough after any one completed run; all six character clears are not needed for Dante ED1/ED2/ED3. The distinct Famiglia, Normal, and Defeat special endings unlock only after clearing all other characters. Dante is recommended last for this ending-collection condition, not as a route-entry lock."
     }
