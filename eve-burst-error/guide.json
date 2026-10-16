@@ -3,20 +3,38 @@
   "vndb_id": "v147",
   "routes": [
     {
-      "id": "marina_01",
-      "title": "まりな編（区間1）",
-      "reviewed": false,
-      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
-    },
-    {
       "id": "kojiro_01",
       "title": "小次郎編（区間1）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
+      "id": "marina_01",
+      "title": "まりな編（区間1）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
+    },
+    {
+      "id": "kojiro_01_day4",
+      "title": "小次郎編（12月4日）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/61/131761.jpg"
+    },
+    {
       "id": "marina_02",
       "title": "まりな編（区間2）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/44339.jpg"
+    },
+    {
+      "id": "kojiro_01_day5",
+      "title": "小次郎編（12月5日）",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/61/131761.jpg"
+    },
+    {
+      "id": "marina_02_day5",
+      "title": "まりな編（12月5–6日）",
       "reviewed": false,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
