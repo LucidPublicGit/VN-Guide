@@ -103,7 +103,7 @@
   },
   {
     "simpleJp": "弥生",
-    "jpGuide1": "話す→弥生×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n弥生×4",
     "enGuide": ""
   },
@@ -181,13 +181,13 @@
   },
   {
     "simpleJp": "孔の事",
-    "jpGuide1": "考える→孔の事×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "考える\n孔の事×5",
     "enGuide": ""
   },
   {
     "simpleJp": "孔の事",
-    "jpGuide1": "考える→孔の事×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "考える\n孔の事×5",
     "enGuide": ""
   },
@@ -265,7 +265,7 @@
   },
   {
     "simpleJp": "警官",
-    "jpGuide1": "話す→警官×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n警官×4",
     "enGuide": ""
   },
@@ -451,7 +451,7 @@
   },
   {
     "simpleJp": "恭子",
-    "jpGuide1": "話す→恭子×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n恭子×4",
     "enGuide": ""
   },
@@ -673,7 +673,7 @@
   },
   {
     "simpleJp": "景子",
-    "jpGuide1": "話す→机に向かう男×２→コピー機の男×２→景子",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n机に向かう男×2\nコピー機の男×2\n景子×2",
     "enGuide": ""
   },
@@ -739,7 +739,7 @@
   },
   {
     "simpleJp": "警官",
-    "jpGuide1": "話す→警官",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n警官×2",
     "enGuide": ""
   },
