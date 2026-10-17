@@ -1,0 +1,14 @@
+[
+  {
+    "simpleJp": "BATTLE 4-3「強行突破」で敵を全滅させる",
+    "jpGuide1": "BATTLE〖強行突破〗",
+    "jpGuide2": "4-3「強行突破」",
+    "enGuide": "Defeat all enemies. Your party for this battle is Cain, Lilith, Stayen, Exal, and Siria; several enemy archers make HP management important."
+  },
+  {
+    "simpleJp": "BATTLE 4-4「渦巻く運命」でベイルを倒す",
+    "jpGuide1": "BATTLE〖渦巻く運命〗\nここではベイルのみを倒せば良いが、他の者も邪魔するので結局全員倒していく",
+    "jpGuide2": "4-4「渦巻く運命」",
+    "enGuide": "Defeat Veil. After clearing the mobs, gather below the bosses' stairs and send one unit only to the second stair level to trigger the boss sequence from range. Let Veil spend the full-screen Pain Ring attack, heal, then wait until the enemy crest CT is under about 12 before rushing. This avoids Ripzalis's large lightning punishment; 「募る思いの告白」 + 「神威の釼」 from 4-2 is especially effective during favorable time."
+  }
+]

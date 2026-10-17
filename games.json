@@ -1,0 +1,154 @@
+{
+  "v1377": {
+    "slug": "yuno",
+    "has_guide": true,
+    "title": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO",
+    "alttitle": "この世の果てで恋を唄う少女YU-NO",
+    "cover_url": "https://t.vndb.org/cv/29/59029.jpg",
+    "added_at": "2026-07-07T00:00:00"
+  },
+  "v1629": {
+    "slug": "hiiro-no-kakera",
+    "has_guide": true,
+    "title": "Hiiro no Kakera",
+    "alttitle": "緋色の欠片",
+    "cover_url": "https://t.vndb.org/cv/43/85243.jpg",
+    "added_at": "2026-07-07T22:51:38.476364+00:00"
+  },
+  "v1715": {
+    "slug": "hakuouki-shinsengumi-kitan",
+    "has_guide": true,
+    "title": "Hakuouki ~Shinsengumi Kitan~",
+    "alttitle": "薄桜鬼 新選組奇譚",
+    "cover_url": "https://t.vndb.org/cv/60/76060.jpg",
+    "added_at": "2026-07-07T22:51:38.476454+00:00",
+    "guide_target": {
+      "label": "薄桜鬼 真改 風華伝",
+      "platform": "Nintendo Switch",
+      "url": "https://vndb.org/r56825"
+    }
+  },
+  "v8203": {
+    "slug": "arcana-famiglia",
+    "has_guide": true,
+    "title": "Arcana Famiglia",
+    "alttitle": "アルカナ・ファミリア",
+    "cover_url": "https://t.vndb.org/cv/65/113965.jpg",
+    "added_at": "2026-07-07T22:51:38.476489+00:00"
+  },
+  "v405": {
+    "slug": "マブラヴ-altered-fable",
+    "has_guide": true,
+    "title": "Muv-Luv Altered Fable",
+    "alttitle": "マブラヴ ALTERED FABLE",
+    "cover_url": "https://t.vndb.org/cv/43/95643.jpg",
+    "added_at": "2026-07-20T22:31:13.744503+00:00"
+  },
+  "v29081": {
+    "slug": "blood-the-last-vampire",
+    "has_guide": true,
+    "title": "Blood: The Last Vampire",
+    "alttitle": "",
+    "cover_url": "https://t.vndb.org/cv/31/119231.jpg",
+    "added_at": "2026-07-07T22:51:38.476564+00:00",
+    "guide_target": {
+      "label": "BLOOD THE LAST VAMPIRE 上巻・下巻（2000年オリジナル版）",
+      "platform": "PlayStation 2",
+      "url": "https://remote.production-ig.co.jp/contents/works/05_/000149.html"
+    }
+  },
+  "v2002": {
+    "slug": "steinsgate",
+    "has_guide": true,
+    "title": "STEINS;GATE",
+    "alttitle": "",
+    "cover_url": "https://t.vndb.org/cv/19/77819.jpg",
+    "added_at": "2026-07-26T14:43:43.555767+00:00"
+  },
+  "v98": {
+    "slug": "akai-ito",
+    "has_guide": true,
+    "title": "Akai Ito",
+    "alttitle": "アカイイト",
+    "cover_url": "https://t.vndb.org/cv/85/89085.jpg",
+    "added_at": "2026-08-31T17:22:19.884258+00:00",
+    "guide_target": {
+      "label": "アカイイト HD REMASTER",
+      "platform": "Nintendo Switch",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000062832"
+    }
+  },
+  "v147": {
+    "slug": "eve-burst-error",
+    "has_guide": false,
+    "title": "EVE burst error",
+    "alttitle": "",
+    "cover_url": "https://t.vndb.org/cv/82/103582.jpg",
+    "added_at": "2026-08-31T17:22:19.884323+00:00",
+    "guide_target": {
+      "label": "EVE burst error R（Nintendo Switch ダウンロード版）",
+      "platform": "Nintendo Switch",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000014281"
+    }
+  },
+  "v210": {
+    "slug": "himawari",
+    "has_guide": true,
+    "title": "Himawari",
+    "alttitle": "ひまわり",
+    "cover_url": "https://t.vndb.org/cv/73/98573.jpg",
+    "added_at": "2026-08-31T17:22:19.884335+00:00",
+    "guide_target": {
+      "label": "ひまわり -Pebble in the Sky- (2016 Windows版)",
+      "platform": "Windows",
+      "url": "https://vndb.org/r44665"
+    }
+  },
+  "v13666": {
+    "slug": "凍京necroトウキョウネクロ",
+    "has_guide": true,
+    "title": "Tokyo NECRO",
+    "alttitle": "凍京NECRO＜トウキョウ・ネクロ＞",
+    "cover_url": "https://t.vndb.org/cv/79/78079.jpg",
+    "added_at": "2026-08-31T17:22:19.884358+00:00"
+  },
+  "v3856": {
+    "slug": "nijuuei",
+    "has_guide": true,
+    "title": "Nijuuei",
+    "alttitle": "二重影",
+    "cover_url": "https://www.keroq.co.jp/product/nijuu/img/top.png",
+    "added_at": "2026-09-19T20:52:00+00:00",
+    "guide_target": {
+      "label": "二重影（2000年オリジナルPC版）",
+      "platform": "Windows PC",
+      "url": "https://www.keroq.co.jp/product/nijuu/top.htm"
+    }
+  },
+  "game:black-matrix-oo": {
+    "slug": "black-matrix-oo",
+    "has_guide": true,
+    "title": "BLACK/MATRIX OO",
+    "alttitle": "ブラックマトリクス ダブルオー",
+    "cover_url": "https://psxdatacenter.com/images/covers/J/B/SLPS-03573/SLPS-03573-F-ALL.jpg",
+    "added_at": "2026-09-22T21:21:00+00:00",
+    "guide_target": {
+      "label": "BLACK/MATRIX OO（2004年オリジナル版）",
+      "platform": "PlayStation",
+      "url": "https://www.gavas.jp/products/detail.php?product_id=9492"
+    }
+  },
+  "game:arc-the-lad-ii": {
+    "slug": "arc-the-lad-ii",
+    "has_guide": true,
+    "title": "Arc the Lad II",
+    "alttitle": "アークザラッドⅡ",
+    "cover_url": "./assets/covers/arc-the-lad-ii.png",
+    "added_at": "2026-09-23T03:30:00+00:00",
+    "guide_target": {
+      "label": "アークザラッドⅡ（プレイステーション クラシック内蔵・日本国内版）",
+      "platform": "PlayStation Classic",
+      "url": "https://blog.ja.playstation.com/2018/10/29/20181029-psclassic-1/"
+    }
+  }
+}

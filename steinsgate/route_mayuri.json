@@ -1,0 +1,45 @@
+[
+  {
+    "simpleJp": "セーブ6にロード",
+    "jpGuide1": "セーブポイント【6】をロードする",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
+  },
+  {
+    "simpleJp": "電話をかける",
+    "jpGuide1": "電話レンジ(仮)に電話をかけると、Chapter9 無限連鎖のアポトーシスへ。",
+    "jpGuide2": "Dメールを送る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "帰ってくる",
+    "jpGuide1": "まゆりメール【帰ってくる？】 → 「帰ってくる」と返信",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "同じ時間",
+    "jpGuide1": "まゆりメール【オリオン座】 → 「同じ時間」と返信",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "セーブ7",
+    "jpGuide1": "◆◆セーブ7◆◆",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "Dメールを送らない",
+    "jpGuide1": "FB携帯からDメールを送らない。",
+    "jpGuide2": "自動的に Chapter10 へと進む",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "透明のスターダスト",
+    "jpGuide1": "まゆりEND「透明のスターダスト」",
+    "jpGuide2": "まゆりENDへ",
+    "enGuide": ""
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "simpleJp": "セーブ13",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Checkpoint for the normal 瑠璃亜編 continuation used to reproduce XNEO's standalone Endings 15–18. XNEO lists these endings without a ＜大岡レポート＞ preamble, so they are kept separate from the later Ending-25 Ooka setup rather than assumed to share its state."
+  },
+  {
+    "simpleJp": "前のアパートは？",
+    "jpGuide1": "前のアパートは？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO Ending 15 starts here and does not list the 雨宿り 今なら逃げられる…… B.S.S.",
+    "badEndPath": "エンディング15"
+  },
+  {
+    "simpleJp": "他の翼手って知ってるの？",
+    "jpGuide1": "他の翼手って知ってるの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜を離す",
+    "jpGuide1": "瑠璃亜を離す",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Completes XNEO Ending 15 (瑠璃亜編)."
+  },
+  {
+    "simpleJp": "セーブ13にロード",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公がうつむいたら」",
+    "jpGuide1": "今なら逃げられる……\t主人公がうつむいたら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO's explicit Ending 16 row begins with the 雨宿り B.S.S. result 今なら逃げられる……. This optional-ending section is intentionally separate from the later 大岡レポート Ending-25 setup.",
+    "badEndPath": "エンディング16"
+  },
+  {
+    "simpleJp": "他にもこういう所があるの？",
+    "jpGuide1": "他にもこういう所があるの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "どうして翼手になったの？",
+    "jpGuide1": "どうして翼手になったの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜を抱く",
+    "jpGuide1": "瑠璃亜を抱く",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜は僕が守るから",
+    "jpGuide1": "瑠璃亜は僕が守るから",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "我慢して！",
+    "jpGuide1": "我慢して！",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Completes XNEO Ending 16 (瑠璃亜編)."
+  },
+  {
+    "simpleJp": "セーブ13にロード",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公がうつむいたら」",
+    "jpGuide1": "今なら逃げられる……\t主人公がうつむいたら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO's explicit Ending 17 row begins with the 雨宿り B.S.S. result 今なら逃げられる……. This optional-ending section is intentionally separate from the later 大岡レポート Ending-25 setup.",
+    "badEndPath": "エンディング17"
+  },
+  {
+    "simpleJp": "そうだね",
+    "jpGuide1": "そうだね",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "他の翼手って知ってるの？",
+    "jpGuide1": "他の翼手って知ってるの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜を抱く",
+    "jpGuide1": "瑠璃亜を抱く",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜と一緒にいられるのなら",
+    "jpGuide1": "瑠璃亜と一緒にいられるのなら",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "僕のを飲むんだ",
+    "jpGuide1": "僕のを飲むんだ",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公の顔がアップになったら」",
+    "jpGuide1": "瑠璃亜！\t主人公の顔がアップになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Blood Search System — XNEO Ending 17 explicitly includes 瑠璃亜！ here."
+  },
+  {
+    "simpleJp": "出来る限り瑠璃亜と一緒にいてあげよう",
+    "jpGuide1": "出来る限り瑠璃亜と一緒にいてあげよう",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Completes XNEO Ending 17 (瑠璃亜編)."
+  },
+  {
+    "simpleJp": "セーブ13にロード",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公がうつむいたら」",
+    "jpGuide1": "今なら逃げられる……\t主人公がうつむいたら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO's explicit Ending 18 row begins with the 雨宿り B.S.S. result 今なら逃げられる……. This optional-ending section is intentionally separate from the later 大岡レポート Ending-25 setup.",
+    "badEndPath": "エンディング18"
+  },
+  {
+    "simpleJp": "そうだね",
+    "jpGuide1": "そうだね",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "どうして翼手になったの？",
+    "jpGuide1": "どうして翼手になったの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜を抱く",
+    "jpGuide1": "瑠璃亜を抱く",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜は僕が守るから",
+    "jpGuide1": "瑠璃亜は僕が守るから",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "我慢して！",
+    "jpGuide1": "我慢して！",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公の顔がアップになったら」",
+    "jpGuide1": "瑠璃亜！\t主人公の顔がアップになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Blood Search System — XNEO Ending 18 explicitly includes 瑠璃亜！ here."
+  },
+  {
+    "simpleJp": "逃げ出す",
+    "jpGuide1": "逃げ出す",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜から離れる",
+    "jpGuide1": "瑠璃亜から離れる",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Completes XNEO Ending 18 (瑠璃亜編)."
+  },
+  {
+    "simpleJp": "セーブ13にロード",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "",
+    "isLoad": true
+  },
+  {
+    "simpleJp": "少年は神田へと向かった",
+    "jpGuide1": "少年は神田へと向かった",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Begin XNEO's explicitly separate ＜大岡レポート＞ setup for Ending 25 here. Do not reuse the normal-entry state used for optional Endings 15–18 above."
+  },
+  {
+    "simpleJp": "少年は少女と出会った",
+    "jpGuide1": "少年は少女と出会った",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "二人は書店に行ったようだ",
+    "jpGuide1": "二人は書店に行ったようだ",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "二人はある本に興味をもった",
+    "jpGuide1": "二人はある本に興味をもった",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "二人はその本を買った",
+    "jpGuide1": "二人はその本を買った",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "少年はそれを渡した",
+    "jpGuide1": "少年はそれを渡した",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "少年は怪しい所にいた",
+    "jpGuide1": "少年は怪しい所にいた",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "少年は傷のわけを聞いた",
+    "jpGuide1": "少年は傷のわけを聞いた",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "セーブ14",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Checkpoint after the explicit Ending-25 大岡レポート setup."
+  },
+  {
+    "simpleJp": "そうだね",
+    "jpGuide1": "そうだね",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO Ending 25 proceeds directly from the Ooka Report setup to そうだね; it does not include 今なら逃げられる……."
+  },
+  {
+    "simpleJp": "セーブ15",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Checkpoint on the explicit Ending-25 main line after そうだね. This state is not shared with optional Endings 15–18."
+  },
+  {
+    "simpleJp": "どうして翼手になったの？",
+    "jpGuide1": "どうして翼手になったの？",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO Ending 25 continues directly toward 瑠璃亜を抱く. Do not trigger 弱いって……？／瑠璃亜……／どんな人だったの？; those appear on Ending 20/27, not Ending 25."
+  },
+  {
+    "simpleJp": "瑠璃亜を抱く",
+    "jpGuide1": "瑠璃亜を抱く",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "瑠璃亜は僕が守るから",
+    "jpGuide1": "瑠璃亜は僕が守るから",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "我慢して！",
+    "jpGuide1": "我慢して！",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "BSSタップ：「主人公の顔がアップになったら」",
+    "jpGuide1": "瑠璃亜！\t主人公の顔がアップになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Blood Search System — XNEO Ending 25 explicitly includes 瑠璃亜！ here."
+  },
+  {
+    "simpleJp": "逃げ出す",
+    "jpGuide1": "逃げ出す",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "セーブ16",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Checkpoint before the final Ending-25 sequence."
+  },
+  {
+    "simpleJp": "マッチを見る",
+    "jpGuide1": "マッチを見る",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "XNEO Ending 25 continues with マッチを見る and omits the optional ママさんなら…… B.S.S. that appears on Ending 20/27."
+  },
+  {
+    "simpleJp": "BSSタップ：「小夜の『待て』」",
+    "jpGuide1": "瑠璃亜から離れる\t小夜の「どけ……」のセリフが終わりそうになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Blood Search System action on the XNEO Ending-25 line."
+  },
+  {
+    "simpleJp": "BSSタップ：「瑠璃亜の『いっ、いや』」",
+    "jpGuide1": "瑠璃亜に駆け寄る\t瑠璃亜の「い、いや～」のセリフが終わりそうになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Blood Search System action on the XNEO Ending-25 line."
+  },
+  {
+    "simpleJp": "BSSタップ：「小夜の『楽にしてやる』」",
+    "jpGuide1": "瑠璃亜をかばう\t小夜の「楽にしてやる」のセリフが終わりそうになったら、サーチする。",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Final Blood Search System action required by XNEO Ending 25."
+  },
+  {
+    "simpleJp": "瑠璃亜編（エンディング25）",
+    "jpGuide1": "エンディング25～瑠璃亜編～",
+    "jpGuide2": "（第二ガイドに記載なし）",
+    "enGuide": "Route complete — XNEO Ending 25. This main path uses the explicit 大岡レポート preamble and is intentionally separate from the standalone optional Ending 15–18 sequences above."
+  }
+]

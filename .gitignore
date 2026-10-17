@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+image.png
+.env
+.env.*

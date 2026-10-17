@@ -1,0 +1,38 @@
+[
+  {
+    "simpleJp": "ちょこをLv55以上にする",
+    "jpGuide1": "ちょこのLVが55以上で、さらにミルマーナをクリア",
+    "jpGuide2": "ちょこをLv55まで上げる必要がある。",
+    "enGuide": "This continuation only opens after Millmana and once Choko is at least Lv55. Put Choko in usable condition before entering because the event includes forced battles."
+  },
+  {
+    "simpleJp": "時の森で上へ進む",
+    "jpGuide1": "上→上→上→上の順で進むと墓地に出られる",
+    "jpGuide2": "操作するキャラをちょこにして、墓地の大きい墓石を調べる",
+    "enGuide": "Take four consecutive upward exits to reach the cemetery. Enter the trees from the west side and circle behind the large grave on the east; inspect it from the rear to trigger the next event."
+  },
+  {
+    "simpleJp": "ちょこの家左下のガラクタを調べる",
+    "jpGuide1": "裏庭に出る鍵は、左下のほうにあるガラクタの山",
+    "jpGuide2": "ちょこの家の左下の物置を調べて鍵を取り、裏口を抜けてシルバの墓を調べる",
+    "enGuide": "Inside Choko's house, search the junk pile at the lower-left to find the backyard key. Use the rear exit and inspect the stick-shaped grave behind the house."
+  },
+  {
+    "simpleJp": "グリーンスライムを1体以上残す",
+    "jpGuide1": "グリーンスライムたちを全滅させてはいけない",
+    "jpGuide2": "こいつらを倒してはならないちょこ覚醒イベント",
+    "enGuide": "Do not wipe out the Green Slimes. Leave at least one alive, disable or avoid the rest, and move a character onto the southwest exit leading toward the cemetery."
+  },
+  {
+    "simpleJp": "戦闘中に教会裏の宝箱から「赤いくつ」を取る",
+    "jpGuide1": "村の北東にある教会の屋根の陰あたりに、「赤いくつ」",
+    "jpGuide2": "戦闘が始まったらいきなりかつひっそりと出現",
+    "enGuide": "Before escaping the slime battle, detour behind the church in the northeast. A one-time chest exists only during this fight; open it for Red Shoes."
+  },
+  {
+    "simpleJp": "墓地では大きな墓だけを通常攻撃で破壊する",
+    "jpGuide1": "勝利条件は以前に調べた一つだけ大きな墓を倒す",
+    "jpGuide2": "墓地ではまたバトルになるが、光る墓石を破壊して、村を出る",
+    "enGuide": "The objective is the single large/marked grave you inspected earlier. Destroy that grave with normal attacks; once it falls, the event continues and this mid-Choko stage is complete."
+  }
+]

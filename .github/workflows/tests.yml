@@ -1,0 +1,47 @@
+name: Tests and coverage
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.4.2"
+
+      - name: Install test dependency
+        run: bun install --no-save --ignore-scripts
+
+      - name: Run tests in parallel with coverage
+        run: bun run test:coverage
+
+      - name: Require 100% coverage on changed executable lines
+        env:
+          BASE_REF: ${{ github.base_ref }}
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+            BASE="origin/$BASE_REF"
+          elif [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]; then
+            BASE="$BEFORE_SHA"
+          else
+            BASE="HEAD^"
+          fi
+          bun tools/check-diff-coverage.mjs "$BASE"
