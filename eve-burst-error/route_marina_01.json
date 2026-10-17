@@ -1,5 +1,47 @@
 [
   {
+    "simpleJp": "見る・調べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "あたりの様子",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "本部長",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "ヒゲ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "暴れる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "乱舞",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "拳銃乱射",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本部長\nヒゲ\n暴れる\n乱舞\n拳銃乱射",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "話す",
     "jpGuide1": "話す→本部長×５",
     "jpGuide2": "話す\n本部長×6",
@@ -54,6 +96,24 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "脱ぐ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "脱ぐ\nクツ\nすべて",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "クツ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "脱ぐ\nクツ\nすべて",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "すべて",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "脱ぐ\nクツ\nすべて",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "移動する",
     "jpGuide1": "移動する→外に出る→サン・マンション→403号室",
     "jpGuide2": "移動する\n外に出る\n移動する\nサン・マンション\n移動する\n403号室",
@@ -66,6 +126,24 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "座る",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "座る\nうんこ座り\nヤンキー座り",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "うんこ座り",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "座る\nうんこ座り\nヤンキー座り",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "ヤンキー座り",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "座る\nうんこ座り\nヤンキー座り",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "移動する",
     "jpGuide1": "移動する→外に出る→サン・マンション→403号室",
     "jpGuide2": "移動する\n外に出る\n移動する\nサン・マンション\n移動する\n403号室",
@@ -75,18 +153,6 @@
     "simpleJp": "403号室",
     "jpGuide1": "移動する→外に出る→サン・マンション→403号室",
     "jpGuide2": "移動する\n外に出る\n移動する\nサン・マンション\n移動する\n403号室",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "電話をかける",
-    "jpGuide1": "電話をかける→彼女のとこ",
-    "jpGuide2": "電話をかける\n彼女のとこ",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "彼女のとこ",
-    "jpGuide1": "電話をかける→彼女のとこ",
-    "jpGuide2": "電話をかける\n彼女のとこ",
     "enGuide": ""
   },
   {
@@ -117,6 +183,18 @@
     "simpleJp": "天井",
     "jpGuide1": "天井",
     "jpGuide2": "見る・調べる\nあたりの様子\nベッド\n電話\n天井\n見る・調べる\n電話\n移動する\n外に出る\n移動する\n本部ビル\n移動する\n中に入る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "電話をかける",
+    "jpGuide1": "電話をかける→彼女のとこ",
+    "jpGuide2": "電話をかける\n彼女のとこ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "彼女のとこ",
+    "jpGuide1": "電話をかける→彼女のとこ",
+    "jpGuide2": "電話をかける\n彼女のとこ",
     "enGuide": ""
   },
   {
@@ -168,6 +246,24 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "寝る",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "寝る\n床\n机の下",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "床",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "寝る\n床\n机の下",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "机の下",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "寝る\n床\n机の下",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "話す",
     "jpGuide1": "話す→本部長×４→御堂×７→本部長×７",
     "jpGuide2": "話す\n本部長×4\n話す\n御堂×7\n話す\n本部長×8",
@@ -195,6 +291,30 @@
     "simpleJp": "本部長",
     "jpGuide1": "話す→本部長×４→御堂×７→本部長×７",
     "jpGuide2": "話す\n本部長×4\n話す\n御堂×7\n話す\n本部長×8",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "見る・調べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n御堂\n眼鏡",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "あたりの様子",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n御堂\n眼鏡",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "御堂",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n御堂\n眼鏡",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "眼鏡",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n御堂\n眼鏡",
     "enGuide": ""
   },
   {
@@ -399,6 +519,24 @@
     "simpleJp": "外国人学校",
     "jpGuide1": "移動する→外に出る→外国人学校",
     "jpGuide2": "移動する\n外に出る\n移動する\n外国人学校",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "ガタガタさせる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "ガタガタさせる\n門\n奥歯",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "門",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "ガタガタさせる\n門\n奥歯",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "奥歯",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "ガタガタさせる\n門\n奥歯",
     "enGuide": ""
   },
   {
