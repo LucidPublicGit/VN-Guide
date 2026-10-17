@@ -145,25 +145,25 @@
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "話す→プリン×２",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\nプリン×3",
     "enGuide": ""
   },
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "話す→プリン×１",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nプリン\n話す\nプリン",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "話す→プリン×１",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nプリン\n話す\nプリン",
     "enGuide": ""
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "話す→プリン×１",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nプリン\n話す\nプリン",
     "enGuide": ""
   },
@@ -175,25 +175,25 @@
   },
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "話す→茜×５",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n茜\nカメラ\n話す\n茜×5",
     "enGuide": ""
   },
   {
     "simpleJp": "あたりの様子",
-    "jpGuide1": "話す→茜×５",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n茜\nカメラ\n話す\n茜×5",
     "enGuide": ""
   },
   {
     "simpleJp": "茜",
-    "jpGuide1": "話す→茜×５",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n茜\nカメラ\n話す\n茜×5",
     "enGuide": ""
   },
   {
     "simpleJp": "カメラ",
-    "jpGuide1": "話す→茜×５",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "見る・調べる\nあたりの様子\n茜\nカメラ\n話す\n茜×5",
     "enGuide": ""
   },
