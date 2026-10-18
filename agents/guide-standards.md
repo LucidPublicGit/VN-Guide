@@ -44,7 +44,7 @@ Rules:
 - If neither the repository nor caller supplies a target, default to the **newest official complete release that includes native Japanese in-game text**, using release-specific metadata such as VNDB releases rather than guessing from the broad work entry. This keeps `simpleJp` valid for the target while preferring the newest applicable edition/platform.
 - If the newest applicable Japanese release is ambiguous (for example multiple distinct releases on the same newest date, a multi-platform release that cannot be made platform-specific, or insufficient release metadata), stop and request an explicit target instead of choosing arbitrarily.
 - `label`, `platform`, and `url` are all required and non-empty.
-- The URL should identify the **specific intended release/edition**, not merely the broad work. When VNDB contains the exact target release, prefer its `https://vndb.org/r...` release page over the broader `v...` work page.
+- The URL should identify the **specific intended release/edition**, not merely the broad work. **Prefer the exact VNDB `https://vndb.org/r...` release page whenever available; use another release-specific source only when VNDB cannot provide a suitable exact-target link.**
 - Once a default target is resolved, persist it to `games.json` before research exactly like a caller-supplied target.
 - Copy the exact target into `research.json.guide_target` and later into `guide.json.guide_target`.
 - Verify every Set A/B component applies to that exact target, or document version differences and why they do not affect the guide.
@@ -136,6 +136,10 @@ For an opted-in non-VN walkthrough only, `simpleJp` is the short Japanese instru
 - A walkthrough instruction must be **executable**, not merely name an objective. `G#17を完了する`, `ダンジョンを攻略する`, or similar labels are insufficient when the source provides concrete actions.
 - For a multi-stage job/quest, either split the route into actionable steps or put a concise ordered procedure in `enGuide`. Include the practical start point, required NPC/object interaction, battle/puzzle condition, and completion/report-back action when the source documents them.
 - Guild/job titles are context labels, not walkthrough directions. Preserve the title if useful, but also tell the player **how to clear it**.
+- Preserve **player continuity** across every section boundary. The first actionable step after a route/section change must make the player's current location/state and immediate destination unambiguous; the final step or its `enGuide` must make the next destination/objective clear when the game does not force it automatically.
+- Do not make the player infer why an optional completion action exists. For a bounty, steal, unique pickup, recruit, or side job, `enGuide` must state whether it is optional, why the guide recommends doing it now, and any missable/first-encounter/lockout consequence that justifies the timing.
+- When a bounty has hidden state, distinguish **poster confirmation**, **spawn prerequisites**, and **turn-in/reporting**. Never tell the player merely to 'check posters' when the target does not require poster confirmation, and never omit a prerequisite kill/event that controls whether the target can appear.
+- Avoid gratuitous city/country bouncing. Within a safe timing window, order optional actions into an executable travel path unless the sources require a different order; when backtracking is necessary, explain the dependency that makes it necessary.
 - This exception does not relax normal VN `simpleJp` rules.
 
 ### Game-walkthrough source coverage
@@ -220,8 +224,8 @@ For each documented non-main ending detour:
 Direct/browser agents must assemble `guide.json` equivalently to the deterministic generator:
 
 - entries follow `research.json` / recommended order for every completed guide section;
-- each entry includes `id`, `title`, `stepCount`, and `reviewed`;
-- `stepCount` equals the actual length of `route_<id>.json`;
+- each entry includes `id`, `title`, and `reviewed`;
+- do not store a static step count in `guide.json`; route length is derived from the actual `route_<id>.json` array at runtime;
 - preserve an existing route's `reviewed` value when reassembling; new routes default to `false`;
 - require the verified portrait from current research whenever a verifiable route-character image exists; fall back to an existing verified portrait only when research has none, and permit an empty portrait only when research explicitly documents that no suitable verifiable image was found;
 - copy current research `sources` into `guide.json`;
