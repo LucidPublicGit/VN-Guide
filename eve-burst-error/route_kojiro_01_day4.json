@@ -1297,37 +1297,37 @@
   },
   {
     "simpleJp": "見る・調べる",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "見る・調べる→あたりの様子→プール→観葉植物",
     "jpGuide2": "見る・調べる\nあたりの様子\nプール\n観葉植物",
     "enGuide": ""
   },
   {
     "simpleJp": "あたりの様子",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "見る・調べる→あたりの様子→プール→観葉植物",
     "jpGuide2": "見る・調べる\nあたりの様子\nプール\n観葉植物",
     "enGuide": ""
   },
   {
     "simpleJp": "プール",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "見る・調べる→あたりの様子→プール→観葉植物",
     "jpGuide2": "見る・調べる\nあたりの様子\nプール\n観葉植物",
     "enGuide": ""
   },
   {
     "simpleJp": "観葉植物",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "見る・調べる→あたりの様子→プール→観葉植物",
     "jpGuide2": "見る・調べる\nあたりの様子\nプール\n観葉植物",
     "enGuide": ""
   },
   {
     "simpleJp": "待つ",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "待つ→プリン×２",
     "jpGuide2": "待つ\nプリン",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "待つ→プリン×２",
     "jpGuide2": "待つ\nプリン",
     "enGuide": ""
   },
@@ -1351,25 +1351,25 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→プリン×３",
     "jpGuide2": "話す\nプリン×3",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→プリン×３",
     "jpGuide2": "話す\nプリン×3",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→プリン×３",
     "jpGuide2": "話す\nプリン×3",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→プリン×３",
     "jpGuide2": "話す\nプリン×3",
     "enGuide": ""
   },
@@ -1429,13 +1429,13 @@
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "話す→プリン×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "プリン×2\nあたりの様子×2",
     "enGuide": ""
   },
   {
     "simpleJp": "プリン",
-    "jpGuide1": "話す→プリン×３",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "プリン×2\nあたりの様子×2",
     "enGuide": ""
   },
@@ -1549,31 +1549,31 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→女の子×２→野郎ども×４",
     "jpGuide2": "話す\n女の子×2\n野郎ども×2\n見る・調べる\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "女の子",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→女の子×２→野郎ども×４",
     "jpGuide2": "話す\n女の子×2\n野郎ども×2\n見る・調べる\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "女の子",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→女の子×２→野郎ども×４",
     "jpGuide2": "話す\n女の子×2\n野郎ども×2\n見る・調べる\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→女の子×２→野郎ども×４",
     "jpGuide2": "話す\n女の子×2\n野郎ども×2\n見る・調べる\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide1": "話す→女の子×２→野郎ども×４",
     "jpGuide2": "話す\n女の子×2\n野郎ども×2\n見る・調べる\n女の子\n野郎ども×2",
     "enGuide": ""
   },
@@ -1603,37 +1603,37 @@
   },
   {
     "simpleJp": "話す",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "女の子",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
   {
     "simpleJp": "野郎ども",
-    "jpGuide1": "話す→女の子×２→野郎ども×４",
+    "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "話す\n野郎ども×2\n女の子\n野郎ども×2",
     "enGuide": ""
   },
