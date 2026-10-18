@@ -732,6 +732,18 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "座る",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "座る\n椅子・机",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "椅子・机",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "座る\n椅子・机",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "見る・調べる",
     "jpGuide1": "見る・調べる→あたりの様子×２",
     "jpGuide2": "見る・調べる\nあたりの様子\n机\n窓\n観葉植物\nあたりの様子",
@@ -1032,6 +1044,36 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "見る・調べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本棚\nカウンター\n観葉植物",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "あたりの様子",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本棚\nカウンター\n観葉植物",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "本棚",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本棚\nカウンター\n観葉植物",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "カウンター",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本棚\nカウンター\n観葉植物",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "観葉植物",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n本棚\nカウンター\n観葉植物",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "移動する",
     "jpGuide1": "移動する→次に案内してもらう",
     "jpGuide2": "移動する\n次に案内してもらう",
@@ -1041,6 +1083,24 @@
     "simpleJp": "次に案内してもらう",
     "jpGuide1": "移動する→次に案内してもらう",
     "jpGuide2": "移動する\n次に案内してもらう",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "泳ぐ",
+    "jpGuide1": "泳ぐ→プール→空中",
+    "jpGuide2": "泳ぐ\nプール\n空中",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "プール",
+    "jpGuide1": "泳ぐ→プール→空中",
+    "jpGuide2": "泳ぐ\nプール\n空中",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "空中",
+    "jpGuide1": "泳ぐ→プール→空中",
+    "jpGuide2": "泳ぐ\nプール\n空中",
     "enGuide": ""
   },
   {
@@ -1074,24 +1134,6 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "泳ぐ",
-    "jpGuide1": "泳ぐ→プール→空中",
-    "jpGuide2": "泳ぐ\nプール\n空中",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "プール",
-    "jpGuide1": "泳ぐ→プール→空中",
-    "jpGuide2": "泳ぐ\nプール\n空中",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "空中",
-    "jpGuide1": "泳ぐ→プール→空中",
-    "jpGuide2": "泳ぐ\nプール\n空中",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "移動する",
     "jpGuide1": "移動する→次に案内してもらう",
     "jpGuide2": "移動する\n次に案内してもらう",
@@ -1101,6 +1143,24 @@
     "simpleJp": "次に案内してもらう",
     "jpGuide1": "移動する→次に案内してもらう",
     "jpGuide2": "移動する\n次に案内してもらう",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "食べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "食べる\n食べ物\n椅子",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "食べ物",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "食べる\n食べ物\n椅子",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "椅子",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "食べる\n食べ物\n椅子",
     "enGuide": ""
   },
   {
@@ -1173,6 +1233,54 @@
     "simpleJp": "電灯の上",
     "jpGuide1": "（第一ガイドに記載なし）",
     "jpGuide2": "座る\nベンチ\n電灯の上",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "移動する",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "飛び降りる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\n飛び降りる×7",
     "enGuide": ""
   },
   {
@@ -1326,9 +1434,81 @@
     "enGuide": ""
   },
   {
+    "simpleJp": "プール",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\nプール\n移動する\nプール場を出る\n移動する\n外に出る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "移動する",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\nプール\n移動する\nプール場を出る\n移動する\n外に出る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "プール場を出る",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\nプール\n移動する\nプール場を出る\n移動する\n外に出る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "移動する",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "移動する\nプール\n移動する\nプール場を出る\n移動する\n外に出る",
+    "enGuide": ""
+  },
+  {
     "simpleJp": "外に出る",
     "jpGuide1": "移動する→ディレクタールーム→部屋を出る→図書館→図書館を出る\n西棟→食堂→食堂を出る→外に出る",
     "jpGuide2": "移動する\nディレクタールーム\n移動する\n部屋を出る\n移動する\n図書館\n移動する\n図書館を出る\n移動する\n西棟\n移動する\n食堂\n移動する\n食堂を出る\n移動する\n外に出る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "引っ張る",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "引っ張る\nヒゲ\nネクタイ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "ヒゲ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "引っ張る\nヒゲ\nネクタイ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "ネクタイ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "引っ張る\nヒゲ\nネクタイ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "見る・調べる",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n鈴木\n葉巻\nスーツ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "あたりの様子",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n鈴木\n葉巻\nスーツ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "鈴木",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n鈴木\n葉巻\nスーツ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "葉巻",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n鈴木\n葉巻\nスーツ",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "スーツ",
+    "jpGuide1": "（第一ガイドに記載なし）",
+    "jpGuide2": "見る・調べる\nあたりの様子\n鈴木\n葉巻\nスーツ",
     "enGuide": ""
   },
   {
@@ -1599,18 +1779,6 @@
     "simpleJp": "部屋を出る",
     "jpGuide1": "移動する→部屋を出る",
     "jpGuide2": "移動する\n部屋を出る",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "移動する",
-    "jpGuide1": "移動する→外に出る",
-    "jpGuide2": "移動する\n外に出る",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "外に出る",
-    "jpGuide1": "移動する→外に出る",
-    "jpGuide2": "移動する\n外に出る",
     "enGuide": ""
   },
   {
