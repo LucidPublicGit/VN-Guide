@@ -1020,18 +1020,6 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "移動する",
-    "jpGuide1": "移動する→船倉を出る",
-    "jpGuide2": "移動する\n船倉を出る",
-    "enGuide": ""
-  },
-  {
-    "simpleJp": "船倉を出る",
-    "jpGuide1": "移動する→船倉を出る",
-    "jpGuide2": "移動する\n船倉を出る",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "話す",
     "jpGuide1": "話す→真弥子×２",
     "jpGuide2": "話す\n真弥子×2",
@@ -1047,6 +1035,18 @@
     "simpleJp": "真弥子",
     "jpGuide1": "話す→真弥子×２",
     "jpGuide2": "話す\n真弥子×2",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "移動する",
+    "jpGuide1": "移動する→船倉を出る",
+    "jpGuide2": "移動する\n船倉を出る",
+    "enGuide": ""
+  },
+  {
+    "simpleJp": "船倉を出る",
+    "jpGuide1": "移動する→船倉を出る",
+    "jpGuide2": "移動する\n船倉を出る",
     "enGuide": ""
   },
   {
