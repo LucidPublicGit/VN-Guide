@@ -5,127 +5,127 @@
     {
       "id": "kojiro_01",
       "title": "小次郎編（区間1）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_01",
       "title": "まりな編（区間1）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_01_day4",
       "title": "小次郎編（12月4日）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_02",
       "title": "まりな編（区間2）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_01_day5",
       "title": "小次郎編（12月5日）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_02_day5",
       "title": "まりな編（12月5–6日）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_02",
       "title": "小次郎編（区間2）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_03",
       "title": "まりな編（区間3）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_03",
       "title": "小次郎編（区間3）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "kojiro_04",
       "title": "小次郎編（区間4）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_04",
       "title": "まりな編（区間4）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_05",
       "title": "小次郎編（区間5）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_05",
       "title": "まりな編（区間5）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_06",
       "title": "小次郎編（区間6）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_06",
       "title": "まりな編（区間6）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "kojiro_07",
       "title": "小次郎編（区間7）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "kojiro_08",
       "title": "小次郎編（区間8）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/61/131761.jpg"
     },
     {
       "id": "marina_07",
       "title": "まりな編（区間7）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "marina_08",
       "title": "まりな編（区間8）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "marina_09",
       "title": "まりな編（区間9）",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/44339.jpg"
     },
     {
       "id": "terror",
       "title": "テラー編",
-      "reviewed": false
+      "reviewed": true
     }
   ],
   "sources": [
@@ -150,7 +150,7 @@
       "notes": "Supplementary Japanese walkthrough, not a replacement for independent Set A/B. On 2026-10-16 the index and seven dated walkthrough pages (12/2, 12/3, 12/4, 12/5, 12/6, 12/7, 12/9) were directly reachable; the previously observed 503 failures no longer apply. The index explicitly claims remaster EVE burst error R compatibility and lists Switch among platforms. The 12/3 Kojiro action chronology and 12/4 sections were directly inspected; 12/3 corroborates a single later visit to 孔の家, without the previously removed duplicate sequence. Independence from other older-release guides and full R/Switch parity are not established, so this remains supplemental and does not replace Set A/B source lanes."
     }
   ],
-  "generated_at": "2026-09-26T15:32:00Z",
+  "generated_at": "2026-10-22T00:19:58.333Z",
   "guide_target": {
     "label": "EVE burst error R（Nintendo Switch ダウンロード版）",
     "platform": "Nintendo Switch",
