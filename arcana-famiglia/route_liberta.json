@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -66,16 +66,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "何かあるの？",
-    "jpGuide1": "何かあるの？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
     "jpGuide2": "▶︎〖MAP〗ルカ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「何かあるの？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ありがとう……でも急にどうしたの？",
@@ -150,7 +144,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ありがとう",
+    "simpleJp": "ありがとう......",
     "jpGuide1": "ありがとう",
     "jpGuide2": "・ありがとう......",
     "enGuide": ""
@@ -264,16 +258,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……コンフェットゥーラ……私も好きだよ？",
-    "jpGuide1": "……コンフェットゥーラ……私も好きだよ？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]市場(リベルタ)",
     "jpGuide2": "▶︎〖MAP〗リベルタ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「……コンフェットゥーラ……私も好きだよ？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "お腹いっぱいご飯が食べたい",
@@ -330,7 +318,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かにいつも以上のはしゃぎ方",
+    "simpleJp": "確かにいつも以上のはしゃぎ方......",
     "jpGuide1": "確かにいつも以上のはしゃぎ方",
     "jpGuide2": "・確かにいつも以上のはしゃぎ方......",
     "enGuide": ""
@@ -402,7 +390,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "リベルタの方が心配",
+    "simpleJp": "......リベルタの方が心配",
     "jpGuide1": "リベルタの方が心配",
     "jpGuide2": "・......リベルタの方が心配",
     "enGuide": ""
@@ -450,13 +438,13 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……大丈夫？",
+    "simpleJp": "大丈夫......？",
     "jpGuide1": "……大丈夫？",
     "jpGuide2": "・大丈夫......？",
     "enGuide": ""
   },
   {
-    "simpleJp": "リベルタも私も一緒に行く",
+    "simpleJp": "リベルタも私も一緒に行く......",
     "jpGuide1": "リベルタも私も一緒に行く",
     "jpGuide2": "・リベルタも私も一緒に行く......",
     "enGuide": ""
@@ -552,7 +540,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
@@ -948,7 +936,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "うれしい",
+    "simpleJp": "うれしい......",
     "jpGuide1": "うれしい",
     "jpGuide2": "・うれしい......",
     "enGuide": ""
@@ -1008,7 +996,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "港？",
+    "simpleJp": "港......？",
     "jpGuide1": "港？",
     "jpGuide2": "・港......？",
     "enGuide": ""
