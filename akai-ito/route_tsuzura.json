@@ -247,14 +247,14 @@
   {
     "simpleJp": "これは夢だし",
     "jpGuide1": "〖これは夢だし〗",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "これは夢だし(No.10を迎える一条件)",
     "enGuide": "",
     "badEndPath": "Bad End『言霊の継承（２）』（ED10）"
   },
   {
     "simpleJp": "別にそんなことは",
     "jpGuide1": "〖別にそんなことは〗",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "別にそんなことは(No.10を迎える一条件)",
     "enGuide": ""
   },
   {
@@ -278,7 +278,7 @@
   {
     "simpleJp": "抵抗しない",
     "jpGuide1": "〖抵抗しない〗",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "抵抗しない",
     "enGuide": ""
   },
   {
