@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -66,16 +66,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "何かあるの？",
-    "jpGuide1": "何かあるの？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
     "jpGuide2": "▶︎〖MAP〗ルカ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「何かあるの？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ありがとう……でも急にどうしたの？",
@@ -132,7 +126,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "可愛い",
+    "simpleJp": "可愛い......",
     "jpGuide1": "可愛い",
     "jpGuide2": "・可愛い......",
     "enGuide": ""
@@ -150,7 +144,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ありがとう",
+    "simpleJp": "ありがとう......",
     "jpGuide1": "ありがとう",
     "jpGuide2": "・ありがとう......",
     "enGuide": ""
@@ -162,7 +156,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "おいしい……けどあともう一味欲しい",
+    "simpleJp": "おいしい......けど、あともう一味欲しい",
     "jpGuide1": "おいしい……けどあともう一味欲しい",
     "jpGuide2": "・おいしい......けど、あともう一味欲しい",
     "enGuide": ""
@@ -330,7 +324,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かにいつも以上のはしゃぎ方",
+    "simpleJp": "確かにいつも以上のはしゃぎ方......",
     "jpGuide1": "確かにいつも以上のはしゃぎ方",
     "jpGuide2": "・確かにいつも以上のはしゃぎ方......",
     "enGuide": ""
@@ -534,13 +528,13 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……大丈夫？",
+    "simpleJp": "大丈夫......？",
     "jpGuide1": "……大丈夫？",
     "jpGuide2": "・大丈夫......？",
     "enGuide": ""
   },
   {
-    "simpleJp": "リベルタも私も一緒に行く",
+    "simpleJp": "リベルタも私も一緒に行く......",
     "jpGuide1": "リベルタも私も一緒に行く",
     "jpGuide2": "・リベルタも私も一緒に行く......",
     "enGuide": ""
@@ -594,7 +588,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
@@ -684,7 +678,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ルカ！　肉！！",
+    "simpleJp": "ルカ！肉！！",
     "jpGuide1": "ルカ！　肉！！",
     "jpGuide2": "・ルカ！肉！！",
     "enGuide": ""
@@ -852,7 +846,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ルカとの約束があるからここで聞く",
+    "simpleJp": "ルカとの約束があるから、ここで聞く",
     "jpGuide1": "ルカとの約束があるからここで聞く",
     "jpGuide2": "・ルカとの約束があるから、ここで聞く",
     "enGuide": ""
@@ -984,7 +978,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "さっきジョーリィに聞いたんだけど",
+    "simpleJp": "さっきジョーリィに聞いたんだけど......",
     "jpGuide1": "さっきジョーリィに聞いたんだけど",
     "jpGuide2": "・さっきジョーリィに聞いたんだけど......",
     "enGuide": ""
@@ -1264,7 +1258,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "このおしゃべりな口をふさぐには",
+    "simpleJp": "このおしゃべりな口をふさぐには......",
     "jpGuide1": "このおしゃべりな口をふさぐには",
     "jpGuide2": "・このおしゃべりな口をふさぐには......",
     "enGuide": ""
