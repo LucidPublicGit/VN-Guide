@@ -174,7 +174,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "？",
+    "simpleJp": "廊下（？）",
     "jpGuide1": "[MAP]廊下(？)",
     "jpGuide2": "▶︎【MAP】廊下（？）",
     "enGuide": ""
@@ -990,7 +990,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "私の道は……私が決める！",
+    "simpleJp": "私の道は......私が決める",
     "jpGuide1": "私の道は……私が決める！",
     "jpGuide2": "・私の道は......私が決める",
     "enGuide": ""
@@ -1244,17 +1244,11 @@
     "isLoad": true
   },
   {
-    "simpleJp": "6/1までシナリオスキップ",
-    "jpGuide1": "6/1までシナリオスキップ",
-    "jpGuide2": "▶︎６／１までシナリオスキップ",
-    "enGuide": "",
-    "badEndPath": "ノーマルED"
-  },
-  {
     "simpleJp": "XXXYAX",
     "jpGuide1": "[デュエロ]□□□△×□(成功)",
     "jpGuide2": "▶︎【デュエロ】XXXYAX（成功）",
-    "enGuide": ""
+    "enGuide": "After loading Save 14, skip the scenario to 6/1, then enter this successful duel sequence for Normal ED. The documented skip is navigation, not an in-game choice.",
+    "badEndPath": "ノーマルED"
   },
   {
     "simpleJp": "何も失いたくない。でも、パーパも失えない",
