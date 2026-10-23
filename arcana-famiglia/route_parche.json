@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -66,16 +66,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "何かあるの？",
-    "jpGuide1": "何かあるの？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
     "jpGuide2": "▶︎〖MAP〗ルカ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「何かあるの？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ありがとう……でも急にどうしたの？",
@@ -210,16 +204,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ちょっとおもしろそう",
-    "jpGuide1": "ちょっとおもしろそう",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "パーチェ",
     "jpGuide1": "[MAP]棍棒待機室(パーチェ)",
     "jpGuide2": "▶︎〖MAP〗パーチェ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「ちょっとおもしろそう」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "音楽集会？",
@@ -270,7 +258,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "特製のトルテ",
+    "simpleJp": "特製のトルテ......",
     "jpGuide1": "特製のトルテ",
     "jpGuide2": "・特製のトルテ......",
     "enGuide": ""
@@ -360,7 +348,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かにいつも以上のはしゃぎ方",
+    "simpleJp": "確かにいつも以上のはしゃぎ方......",
     "jpGuide1": "確かにいつも以上のはしゃぎ方",
     "jpGuide2": "・確かにいつも以上のはしゃぎ方......",
     "enGuide": ""
@@ -486,7 +474,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……助けに行かない？",
+    "simpleJp": "......助けに、行かない？",
     "jpGuide1": "……助けに行かない？",
     "jpGuide2": "・......助けに、行かない？",
     "enGuide": ""
@@ -546,7 +534,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
