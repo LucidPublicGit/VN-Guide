@@ -14,7 +14,7 @@
   {
     "simpleJp": "YXY",
     "jpGuide1": "[デュエロ]△□△(成功)",
-    "jpGuide2": "▶︎【デュエロ】YXY（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗YXY（成功）",
     "enGuide": ""
   },
   {
@@ -26,7 +26,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "リベルタ",
-    "jpGuide2": "▶︎【Select】リベルタ",
+    "jpGuide2": "▶︎〖Select〗リベルタ",
     "enGuide": ""
   },
   {
@@ -50,13 +50,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]港(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "Y",
     "jpGuide1": "[デュエロ]△(成功)",
-    "jpGuide2": "▶︎【デュエロ】Y（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗Y（成功）",
     "enGuide": ""
   },
   {
@@ -74,7 +74,7 @@
   {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
-    "jpGuide2": "▶︎【MAP】ルカ",
+    "jpGuide2": "▶︎〖MAP〗ルカ",
     "enGuide": ""
   },
   {
@@ -104,7 +104,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]相談役執務室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -158,7 +158,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]訓練場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -182,13 +182,13 @@
   {
     "simpleJp": "ダンテ",
     "jpGuide1": "[MAP]ダンテ",
-    "jpGuide2": "▶︎【MAP】ダンテ",
+    "jpGuide2": "▶︎〖MAP〗ダンテ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]港(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -224,7 +224,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]寝室(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -248,7 +248,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]フィオーレ通り(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -260,7 +260,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -272,7 +272,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]市場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -296,7 +296,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -308,7 +308,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]訓練場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -320,13 +320,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]ルカ",
-    "jpGuide2": "▶︎【MAP】ルカ",
+    "jpGuide2": "▶︎〖MAP〗ルカ",
     "enGuide": ""
   },
   {
@@ -362,7 +362,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]聖杯待機室(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -374,13 +374,13 @@
   {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]ルカ",
-    "jpGuide2": "▶︎【MAP】ルカ",
+    "jpGuide2": "▶︎〖MAP〗ルカ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]市場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -428,7 +428,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]廊下(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -440,13 +440,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -476,13 +476,13 @@
   {
     "simpleJp": "XAXY",
     "jpGuide1": "[デュエロ]□×□△(成功)",
-    "jpGuide2": "▶︎【デュエロ】XAXY（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗XAXY（成功）",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]市場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -524,7 +524,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]港(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -542,7 +542,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -566,31 +566,31 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]食堂(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -662,13 +662,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]厨房(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -680,25 +680,25 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]庭(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -710,13 +710,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]寝室(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -740,7 +740,7 @@
   {
     "simpleJp": "XAAAX",
     "jpGuide1": "[デュエロ]□×××□(成功)",
-    "jpGuide2": "▶︎【デュエロ】XAAAX（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗XAAAX（成功）",
     "enGuide": ""
   },
   {
@@ -752,7 +752,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -794,7 +794,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -824,13 +824,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]船長室(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -848,13 +848,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]ピアーチェ広場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -908,13 +908,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]港(リベルタ)",
-    "jpGuide2": "▶︎【MAP】 リベルタ",
+    "jpGuide2": "▶︎〖MAP〗 リベルタ",
     "enGuide": ""
   },
   {
@@ -956,7 +956,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]市場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -968,7 +968,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]アルカナ号(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -980,13 +980,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]廊下(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -1022,13 +1022,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]屋敷内(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -1040,19 +1040,19 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]リベルタ",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]訓練場(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
@@ -1125,13 +1125,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "リベルタ",
-    "jpGuide2": "▶︎【Select】リベルタ",
+    "jpGuide2": "▶︎〖Select〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "AAAYYA",
     "jpGuide1": "[デュエロ]×××△△×(成功)",
-    "jpGuide2": "▶︎【デュエロ】AAAYYA（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗AAAYYA（成功）",
     "enGuide": ""
   },
   {
@@ -1210,7 +1210,7 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "リベルタ",
-    "jpGuide2": "▶︎【Select】リベルタ",
+    "jpGuide2": "▶︎〖Select〗リベルタ",
     "enGuide": ""
   },
   {
@@ -1242,7 +1242,7 @@
   {
     "simpleJp": "AAAYYA",
     "jpGuide1": "[デュエロ]×××△△×(成功)",
-    "jpGuide2": "▶︎【デュエロ】AAAYYA（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗AAAYYA（成功）",
     "enGuide": ""
   },
   {
