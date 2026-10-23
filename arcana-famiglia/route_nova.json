@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -306,7 +306,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かにいつも以上のはしゃぎ方",
+    "simpleJp": "確かにいつも以上のはしゃぎ方......",
     "jpGuide1": "確かにいつも以上のはしゃぎ方",
     "jpGuide2": "・確かにいつも以上のはしゃぎ方......",
     "enGuide": ""
@@ -522,7 +522,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
@@ -912,16 +912,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……答えられない",
-    "jpGuide1": "……答えられない",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "無理ならいい……",
     "jpGuide1": "無理ならいい……",
     "jpGuide2": "・無理ならいい......",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「……答えられない」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ファミリーのみんなが家族",
@@ -1002,7 +996,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "やっぱり仲いいね",
+    "simpleJp": "やっぱり仲いいね......",
     "jpGuide1": "やっぱり仲いいね",
     "jpGuide2": "・やっぱり仲いいね......",
     "enGuide": ""
@@ -1020,7 +1014,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "私からもお願い",
+    "simpleJp": "私からもお願い......",
     "jpGuide1": "私からもお願い",
     "jpGuide2": "・私からもお願い......",
     "enGuide": ""
