@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -66,16 +66,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "何かあるの？",
-    "jpGuide1": "何かあるの？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
     "jpGuide2": "▶︎〖MAP〗ルカ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「何かあるの？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ありがとう……でも急にどうしたの？",
@@ -150,7 +144,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ありがとう",
+    "simpleJp": "ありがとう......",
     "jpGuide1": "ありがとう",
     "jpGuide2": "・ありがとう......",
     "enGuide": ""
@@ -174,7 +168,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かに贅沢かも",
+    "simpleJp": "確かに贅沢かも......",
     "jpGuide1": "確かに贅沢かも",
     "jpGuide2": "・確かに贅沢かも......",
     "enGuide": ""
@@ -510,7 +504,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
