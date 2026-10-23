@@ -362,31 +362,31 @@
   {
     "simpleJp": "迷惑ではない",
     "jpGuide1": "迷惑ではない",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "迷惑ではない",
     "enGuide": ""
   },
   {
     "simpleJp": "桐島先輩の名を呼ぶ",
     "jpGuide1": "桐島先輩の名を呼ぶ",
     "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
+    "enGuide": "Set A includes this intermediate prompt before いいえ → はい → 更に名前を呼ぶ. Set B omits this prompt on its successful path; the preceding state may differ. Follow it if shown; exact same-state applicability remains unverified."
   },
   {
     "simpleJp": "いいえ",
     "jpGuide1": "いいえ",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "いいえ",
     "enGuide": ""
   },
   {
     "simpleJp": "はい",
     "jpGuide1": "はい",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "はい",
     "enGuide": ""
   },
   {
     "simpleJp": "更に名前を呼ぶ",
     "jpGuide1": "更に名前を呼ぶ",
-    "jpGuide2": "（第二ガイドに記載なし）",
+    "jpGuide2": "更に名前を呼ぶ",
     "enGuide": ""
   },
   {
