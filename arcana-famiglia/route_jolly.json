@@ -14,7 +14,7 @@
   {
     "simpleJp": "YXY",
     "jpGuide1": "[デュエロ]△□△(成功)",
-    "jpGuide2": "▶︎【デュエロ】YXY（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗YXY（成功）",
     "enGuide": ""
   },
   {
@@ -26,7 +26,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "ジョーリィ",
-    "jpGuide2": "▶︎【Select】ジョーリィ",
+    "jpGuide2": "▶︎〖Select〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -50,13 +50,13 @@
   {
     "simpleJp": "リベルタ",
     "jpGuide1": "[MAP]港(リベルタ)",
-    "jpGuide2": "▶︎【MAP】リベルタ",
+    "jpGuide2": "▶︎〖MAP〗リベルタ",
     "enGuide": ""
   },
   {
     "simpleJp": "Y",
     "jpGuide1": "[デュエロ]△(成功)",
-    "jpGuide2": "▶︎【デュエロ】Y（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗Y（成功）",
     "enGuide": ""
   },
   {
@@ -74,7 +74,7 @@
   {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
-    "jpGuide2": "▶︎【MAP】ルカ",
+    "jpGuide2": "▶︎〖MAP〗ルカ",
     "enGuide": ""
   },
   {
@@ -104,7 +104,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]相談役執務室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -158,7 +158,7 @@
   {
     "simpleJp": "廊下（？）",
     "jpGuide1": "[MAP]廊下(？)",
-    "jpGuide2": "▶︎【MAP】廊下（？）",
+    "jpGuide2": "▶︎〖MAP〗廊下（？）",
     "enGuide": ""
   },
   {
@@ -182,25 +182,25 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]市場(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -230,19 +230,19 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -260,7 +260,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]玄関ホール(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -278,13 +278,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]書斎(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -296,7 +296,7 @@
   {
     "simpleJp": "剣待機室（？）",
     "jpGuide1": "[MAP]剣待機室(？)",
-    "jpGuide2": "▶︎【MAP】剣待機室（？）",
+    "jpGuide2": "▶︎〖MAP〗剣待機室（？）",
     "enGuide": ""
   },
   {
@@ -338,7 +338,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]金貨待機室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -380,7 +380,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]庭(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -392,7 +392,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -410,7 +410,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]錬金術部屋(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -434,13 +434,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]玄関ホール(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -476,19 +476,19 @@
   {
     "simpleJp": "XAXY",
     "jpGuide1": "[デュエロ]□×□△(成功)",
-    "jpGuide2": "▶︎【デュエロ】XAXY（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗XAXY（成功）",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]廊下(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -500,7 +500,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -524,25 +524,25 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]庭(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -566,7 +566,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -590,19 +590,19 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]相談役執務室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ビヴァーチェ広場(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]錬金部屋(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -614,13 +614,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ビヴァーチェ広場(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -632,7 +632,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]廊下(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -644,7 +644,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -668,7 +668,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -686,7 +686,7 @@
   {
     "simpleJp": "XAAAX",
     "jpGuide1": "[デュエロ]□×××□(成功)",
-    "jpGuide2": "▶︎【デュエロ】XAAAX（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗XAAAX（成功）",
     "enGuide": ""
   },
   {
@@ -698,7 +698,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]寝室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -764,19 +764,19 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]庭(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -788,13 +788,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]寝室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -812,7 +812,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]錬金術部屋(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -842,7 +842,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -860,13 +860,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]庭(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -878,31 +878,31 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]寝室(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -914,7 +914,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]錬金部屋(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -950,13 +950,13 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]ジョーリィ",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]錬金部屋(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -968,7 +968,7 @@
   {
     "simpleJp": "ジョーリィ",
     "jpGuide1": "[MAP]リストランテ(ジョーリィ)",
-    "jpGuide2": "▶︎【MAP】ジョーリィ",
+    "jpGuide2": "▶︎〖MAP〗ジョーリィ",
     "enGuide": ""
   },
   {
@@ -1024,7 +1024,7 @@
   {
     "simpleJp": "失敗",
     "jpGuide1": "[デュエロ](失敗) → ジョーリィED3",
-    "jpGuide2": "▶︎【デュエロ】失敗 → ジョーリィED3",
+    "jpGuide2": "▶︎〖デュエロ〗失敗 → ジョーリィED3",
     "enGuide": "",
     "badEndPath": "ジョーリィED3"
   },
@@ -1044,7 +1044,7 @@
   {
     "simpleJp": "AAYAAX",
     "jpGuide1": "[デュエロ]××△××□(成功)",
-    "jpGuide2": "▶︎【デュエロ】AAYAAX（成功）",
+    "jpGuide2": "▶︎〖デュエロ〗AAYAAX（成功）",
     "enGuide": ""
   },
   {
