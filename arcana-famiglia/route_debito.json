@@ -42,7 +42,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "お祝い？",
+    "simpleJp": "......お祝い？",
     "jpGuide1": "お祝い？",
     "jpGuide2": "・......お祝い？",
     "enGuide": ""
@@ -66,16 +66,10 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "何かあるの？",
-    "jpGuide1": "何かあるの？",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
-  },
-  {
     "simpleJp": "ルカ",
     "jpGuide1": "[MAP]剣待機室(ルカ)",
     "jpGuide2": "▶︎〖MAP〗ルカ",
-    "enGuide": ""
+    "enGuide": "Rinato/Switch Set B proceeds to this step without documenting the preceding Ancora/Vita Set-A prompt 「何かあるの？」. Do not wait for that prompt; if it actually appears in your playthrough, choose the Set-A answer shown here. Its exact same-state Switch appearance remains unverified."
   },
   {
     "simpleJp": "ありがとう……でも急にどうしたの？",
@@ -150,7 +144,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "ありがとう",
+    "simpleJp": "ありがとう......",
     "jpGuide1": "ありがとう",
     "jpGuide2": "・ありがとう......",
     "enGuide": ""
@@ -246,7 +240,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "私も弾いてみたい",
+    "simpleJp": "私も弾いてみたい......",
     "jpGuide1": "私も弾いてみたい",
     "jpGuide2": "・私も弾いてみたい......",
     "enGuide": ""
@@ -342,7 +336,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "確かにいつも以上のはしゃぎ方",
+    "simpleJp": "確かにいつも以上のはしゃぎ方......",
     "jpGuide1": "確かにいつも以上のはしゃぎ方",
     "jpGuide2": "・確かにいつも以上のはしゃぎ方......",
     "enGuide": ""
@@ -498,7 +492,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "女の人ならマンマもいるけど……",
+    "simpleJp": "女の人ならマンマもいるけど",
     "jpGuide1": "女の人ならマンマもいるけど……",
     "jpGuide2": "・女の人ならマンマもいるけど",
     "enGuide": ""
@@ -528,7 +522,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "……いいの？",
+    "simpleJp": "いいの......？",
     "jpGuide1": "……いいの？",
     "jpGuide2": "・いいの......？",
     "enGuide": ""
@@ -576,7 +570,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "嬉しそう",
+    "simpleJp": "嬉しそう......",
     "jpGuide1": "嬉しそう",
     "jpGuide2": "・嬉しそう......",
     "enGuide": ""
@@ -612,7 +606,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "巡航型",
+    "simpleJp": "......巡航型",
     "jpGuide1": "巡航型",
     "jpGuide2": "・......巡航型",
     "enGuide": ""
@@ -882,7 +876,7 @@
     "enGuide": ""
   },
   {
-    "simpleJp": "みんな心配している",
+    "simpleJp": "みんな心配している......",
     "jpGuide1": "みんな心配している",
     "jpGuide2": "・みんな心配している......",
     "enGuide": ""
