@@ -1247,14 +1247,8 @@
     "simpleJp": "XXXYAX",
     "jpGuide1": "[デュエロ]□□□△×□(成功)",
     "jpGuide2": "▶︎〖デュエロ〗XXXYAX（成功）",
-    "enGuide": "After loading Save 14, skip the scenario to 6/1, then enter this successful duel sequence for Normal ED. The documented skip is navigation, not an in-game choice.",
+    "enGuide": "After loading Save 14, skip the scenario to 6/1, then enter this successful duel sequence for Normal ED. The documented skip is navigation, not an in-game choice. The exact-target Rinato/Switch walkthrough proceeds directly to the tenth-card choice after this duel. If an extra prompt appears, choose 「何も失いたくない。でも、パーパも失えない」 (documented by the older Ancora source); otherwise continue without waiting for it.",
     "badEndPath": "ノーマルED"
-  },
-  {
-    "simpleJp": "何も失いたくない。でも、パーパも失えない",
-    "jpGuide1": "何も失いたくない。でも、パーパも失えない",
-    "jpGuide2": "（第二ガイドに記載なし）",
-    "enGuide": ""
   },
   {
     "simpleJp": "第１０のカード『ルオータ・デラ・フォルトゥナ』",
