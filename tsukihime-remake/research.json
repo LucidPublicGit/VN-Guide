@@ -1,0 +1,87 @@
+{
+  "title": "Tsukihime -A piece of blue glass moon-",
+  "vndb_id": "v17909",
+  "guide_target": {
+    "label": "Tsukihime -A piece of blue glass moon- Download Edition (2024, Japanese text)",
+    "platform": "Nintendo Switch",
+    "url": "https://vndb.org/r124431"
+  },
+  "recommended_order": ["arcueid", "ciel_normal", "ciel_extra"],
+  "routes": [
+    {
+      "id":"arcueid",
+      "title":"1. アルクェイド / Arcueid + Dead Ends 01–11",
+      "prerequisites":[],
+      "is_true_ending":false,
+      "portrait":"https://t.vndb.org/ch/38/116538.jpg",
+      "notes":"NEW GAME, save before the first choice, then KANNAGI's Arcueid path. Independent optional variants from XNEO are retained as evidence, not concatenated into a single path. Asobigokoro local saves 1–10 map to global saves 2–11."
+    },
+    {
+      "id":"ciel_normal",
+      "title":"2. シエル Normal / 夜の虹 + Dead Ends 12–19",
+      "prerequisites":["arcueid"],
+      "is_true_ending":false,
+      "portrait":"https://t.vndb.org/ch/39/116539.jpg",
+      "notes":"Load global Save 1 or start NEW GAME after Arcueid clear. Use the Ciel-specific early choices. Follow KANNAGI's Day 4 refusal/leave/return/glasses choices and Day 8 Arcueid preference, preparing the documented path for Extra, not every high-affection scene. Dead End 15 is fully expanded through Day 11 before loading global Save 14 on Day 9. Dead End 14 now uses KANNAGI's EARLIER conversation-delay entrance immediately after Save 15, then reloads and performs the good conversation once. Asobigokoro local saves 3–11 map to global saves 12–20; its local 1–2 duplicate already-collected common dead ends."
+    },
+    {
+      "id":"ciel_extra",
+      "title":"3. シエル Extra / 白日の碧 + Dead Ends 20–21",
+      "prerequisites":["ciel_normal"],
+      "is_true_ending":true,
+      "portrait":"https://t.vndb.org/ch/39/116539.jpg",
+      "notes":"Load global Save 20 only AFTER clearing Normal. The save retains the affection state from the exact preceding playthrough. Asobigokoro local saves 12–13 map to global saves 21–22. Final Ciel lesson is described in the terminal English hint, not added as an invented OCR choice."
+    }
+  ],
+  "source_policy": {
+    "set_A":"KANNAGI common, heroine, and bad-end pages.",
+    "set_B":"XNEO for choices by default; Asobigokoro for save annotations, ending labels, and the individually documented supplemental choices.",
+    "field_semantics":"jpGuide1/jpGuide2 preserve the source wording, including differing optional choices. They are evidence, not two instructions to execute. simpleJp is the selected path. Missing-source fields use the upstream canonical placeholders.",
+    "supplemental_B_choices":["Ciel Day 4 十人……とか？", "Ciel Day 13 金とかどうでもいい。スルーできない。", "Ciel Day 5 fuller breath-choice text", "Ciel Day 13 琥珀を追い返す。 (also in XNEO)", "Dead End 15 silent response 『……(いや、下手な言葉は逆効果だ)』"],
+    "english":"Author-written English explanations cross-checked against NookGaming. Not an English-OCR guide."
+  },
+  "disagreements": [
+    "KANNAGI and XNEO choose different optional Day 1/2 scenes on Arcueid. The guide follows one continuous KANNAGI path, rather than splicing choice variants.",
+    "Japanese guides give multiple optional number guesses and Day 11 Arcueid responses. This guide selects one documented option, not every scene.",
+    "Japanese sources differ on パンを買って/買ってきて, もう少し/もうすこし, 俺が/俺の, glasses-choice prefixes, quotation marks, and ellipsis/dash lengths. Source spellings are retained in evidence fields. Exact on-screen text still needs in-game confirmation.",
+    "NookGaming uses different optional Ciel Day 2/6/12 scenes and the other valid final-warning response on Extra. This guide follows the Japanese path.",
+    "KANNAGI omits 琥珀を追い返す。; XNEO and Asobigokoro both document it, so it is included.",
+    "Dead End 15: KANNAGI supplies a complete Day 9–11 sequence. Asobigokoro documents an extended alternative, including 因果応報, はっきりと言い返す, greeting everyone, the curry response, and a later Noel question. The guide keeps KANNAGI's continuous chain and Asobigokoro's documented checkpoint, without combining alternative state/choice chains. Both sets document the silent response with differing typography; both quotations are now present.",
+    "Dead End 14: KANNAGI documents two entrances. This guide now uses the earlier 問題はない。話は放課後にすればいいし。 entrance at Asobigokoro's source-backed conversation checkpoint. After the terminal it loads Save 15 and performs the good conversation once; removing the marked detour also leaves the conversation once.",
+    "KANNAGI's bad-end HTML accidentally duplicates id=bad-end-15 for Dead Ends 14 and 15. Labels/content, not those anchors, identify the branches.",
+    "Follow-up: XNEO, Game × First Impression, and Ponkotu Gamer independently print 俺の起こした現実だ on Day 3; simpleJp now uses の rather than KANNAGI's が. Original Set A/B quotations remain unchanged.",
+    "Follow-up: Ponkotu Gamer distinguishes Extra entry from additional late high-affection flowchart scenes. Its warning that refusing cooperation lowers affection means the old hint that this refusal preserves affection was misleading and has been corrected. The documented KANNAGI/XNEO/NookGaming route still uses that refusal; no claim is made that it fills every high-affection variant.",
+    "Follow-up: Ponkotu Gamer independently confirms the Day 9 painful/ineffective medicine forces Dead End 15 on Day 11; the expanded detour is retained.",
+    "Target caveat: the selected target is the 2024 Switch Download Edition with Japanese text (r124431). KANNAGI and XNEO primarily document the original 2021 remake; Asobigokoro has later updates but does not establish target-specific text fidelity. Their shared-work routing is the basis for this draft, not proof that every 2024 Japanese menu string is unchanged. Exact-release applicability and disputed transcriptions still require independent confirmation before an accuracy PASS."
+  ],
+  "portrait_status":"Verified VNDB character API metadata using filters [vn,=,[id,=,v17909]]: c94783 Arcueid maps to https://t.vndb.org/ch/38/116538.jpg and c94784 Ciel to https://t.vndb.org/ch/39/116539.jpg. Earlier HTTP 400 was an invalid filter, not missing portraits.",
+  "target_resolution": {
+    "status":"Selected for draft submission; metadata synchronized with the game registration and manifest.",
+    "reason":"Caller specified Switch and authorized the normal/best guide target. The 2024 standard Download Edition is selected rather than a limited/deluxe package or PS4 edition.",
+    "evidence":"Direct VNDB Kana release query for r124431 returns v17909, Nintendo Switch (swi), release date 2024-06-27, native Japanese among its languages, and digital cover https://t.vndb.org/cv/87/86687.jpg.",
+    "source_applicability":"Original Japanese walkthroughs support the shared remake routes. Target-specific equivalence of all Japanese text and conditions is not yet independently established. This is an explicitly unreviewed draft, not an owner-approved source exception."
+  },
+  "verification_status": {
+    "structural":"Independent second-round review traced all 205 steps and passed all three route structures after the Dead End 14 correction. Selecting a previously ambiguous exact target requires target-scoped re-review under the repository invalidation policy; reviewed remains false.",
+    "accuracy":"Independent second-round review confirmed the corrected source records and earlier Dead End 14 entrance, with no new confirmed gameplay-blocking error. Approval remains withheld pending exact-release applicability and disputed on-screen text. Target selection is now explicit; it is not an accuracy approval.",
+    "gameplay":"Not playtested in Tsukihime.",
+    "GSM":"Manifest and route shape checked against public GSM validators. Canonical load spelling and the actual upstream flowchart have been exercised; all 20 save branches are recognized. Live overlay/OCR not tested.",
+    "upstream":"Draft contribution only. All routes remain reviewed:false. Full Japanese accuracy approval is explicitly outstanding."
+  },
+  "generated_at":"2026-10-27T19:06:39Z",
+  "sources": [
+    {"url":"https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-walkthrough","title":"KANNAGI — route order and unlock conditions","language":"ja","set":"A","notes":"Directly inspected overview: Arcueid then Ciel Normal then True; affection and unlock conditions. Covers the 2021 remake; exact 2024 target equivalence remains unverified."},
+    {"url":"https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-common","title":"KANNAGI — common opening checkpoint","language":"ja","set":"A","notes":"Directly inspected common opening and source-backed save before the first choice. Original remake walkthrough; exact-release caveat applies."},
+    {"url":"https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-arcueid-brunestud","title":"KANNAGI — Arcueid choices","language":"ja","set":"A","notes":"Directly inspected complete Arcueid day-by-day path and optional choices. Selected continuous path follows this component. Original remake walkthrough; target text verification remains open."},
+    {"url":"https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-ciel","title":"KANNAGI — Ciel choices","language":"ja","set":"A","notes":"Directly inspected Ciel day-by-day path through Normal and True. Original remake walkthrough; target text verification remains open."},
+    {"url":"https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-bad-end","title":"KANNAGI — complete dead-end paths, including delayed 15","language":"ja","set":"A","notes":"Directly inspected all 21 endings, the complete delayed No.15 chain and both No.14 entrances. Do not concatenate alternative paths. Original remake walkthrough; exact-release caveat applies."},
+    {"url":"https://xneo.jp/tsukihime/","title":"XNEO — independent Japanese routes and dead ends","language":"ja","set":"B","notes":"Directly inspected independent full heroine paths and dead-end choices. Supplies the default second evidence lane. Different optional choices and transcriptions are retained as evidence, not assumed to be target-exact."},
+    {"url":"https://asobigokoro.work/Game-strategy-site/tsukihime-alucard-story-walkthrough-flowchart-a-piece-of-blue-glass-moon/","title":"Asobigokoro — Arcueid save checkpoints","language":"ja","set":"B","notes":"Directly inspected numbered checkpoints and endings. Local saves 1–10 map to global 2–11. Later page updates do not themselves prove all 2024 target text is unchanged."},
+    {"url":"https://asobigokoro.work/Game-strategy-site/tsukihime-a-piece-of-blue-glass-moon-ciel-story-strategy-flowchart/","title":"Asobigokoro — Ciel save checkpoints and additional choices","language":"ja","set":"B","notes":"Directly inspected local saves 3–13 (global 12–22), Normal-to-True reload and supplementary choices. Includes a distinct No.15 chain not mixed into KANNAGI's selected chain. Exact-release text verification remains open."},
+    {"url":"https://www.nookgaming.com/tsukihime-a-piece-of-blue-glass-moon-walkthrough-guide/","title":"NookGaming — English reference and completion instructions","language":"en","notes":"Supplementary only. English hints are explanatory translations, not guaranteed official localization strings."},
+    {"url":"https://game-firstimpression.com/game-capture/tsukihime-flowchart/","title":"Game × First Impression — common-route flowchart and Ciel entry conditions","language":"ja","notes":"Supplementary independent check: Day 3 俺の wording and Day 5 route commitment."},
+    {"url":"https://ponkotugamer.com/2021/tsukihimer2/","title":"Ponkotu Gamer — trophies, delayed endings, and affection-dependent flowchart variants","language":"ja","notes":"Supplementary independent check: Day 3 wording, delayed Dead End 15, and distinction between Extra access and high-affection scene completion."},
+    {"url":"https://api.vndb.org/kana/character","title":"VNDB character API — v17909 character images","language":"en","notes":"Nested vn filter verified c94783 Arcueid and c94784 Ciel with the portrait URLs used in this manifest."},
+    {"url":"https://vndb.org/r124431","title":"VNDB — 2024 Switch Download Edition","language":"en","notes":"Release metadata directly verified through VNDB Kana release endpoint: v17909, Switch, 2024-06-27, Japanese text, and cover https://t.vndb.org/cv/87/86687.jpg. Metadata only; not an independent Japanese walkthrough."}
+  ]
+}

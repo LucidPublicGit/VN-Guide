@@ -1,0 +1,118 @@
+{
+  "title": "Tsukihime -A piece of blue glass moon-",
+  "vndb_id": "v17909",
+  "guide_target": {
+    "label": "Tsukihime -A piece of blue glass moon- Download Edition (2024, Japanese text)",
+    "platform": "Nintendo Switch",
+    "url": "https://vndb.org/r124431"
+  },
+  "routes": [
+    {
+      "id": "arcueid",
+      "title": "1. アルクェイド / Arcueid + Dead Ends 01–11",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/38/116538.jpg"
+    },
+    {
+      "id": "ciel_normal",
+      "title": "2. シエル Normal / 夜の虹 + Dead Ends 12–19",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/116539.jpg"
+    },
+    {
+      "id": "ciel_extra",
+      "title": "3. シエル Extra / 白日の碧 + Dead Ends 20–21",
+      "reviewed": false,
+      "portrait": "https://t.vndb.org/ch/39/116539.jpg"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-walkthrough",
+      "title": "KANNAGI — route order and unlock conditions",
+      "language": "ja",
+      "set": "A",
+      "notes": "Directly inspected overview: Arcueid then Ciel Normal then True; affection and unlock conditions. Covers the 2021 remake; exact 2024 target equivalence remains unverified."
+    },
+    {
+      "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-common",
+      "title": "KANNAGI — common opening checkpoint",
+      "language": "ja",
+      "set": "A",
+      "notes": "Directly inspected common opening and source-backed save before the first choice. Original remake walkthrough; exact-release caveat applies."
+    },
+    {
+      "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-arcueid-brunestud",
+      "title": "KANNAGI — Arcueid choices",
+      "language": "ja",
+      "set": "A",
+      "notes": "Directly inspected complete Arcueid day-by-day path and optional choices. Selected continuous path follows this component. Original remake walkthrough; target text verification remains open."
+    },
+    {
+      "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-ciel",
+      "title": "KANNAGI — Ciel choices",
+      "language": "ja",
+      "set": "A",
+      "notes": "Directly inspected Ciel day-by-day path through Normal and True. Original remake walkthrough; target text verification remains open."
+    },
+    {
+      "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-bad-end",
+      "title": "KANNAGI — complete dead-end paths, including delayed 15",
+      "language": "ja",
+      "set": "A",
+      "notes": "Directly inspected all 21 endings, the complete delayed No.15 chain and both No.14 entrances. Do not concatenate alternative paths. Original remake walkthrough; exact-release caveat applies."
+    },
+    {
+      "url": "https://xneo.jp/tsukihime/",
+      "title": "XNEO — independent Japanese routes and dead ends",
+      "language": "ja",
+      "set": "B",
+      "notes": "Directly inspected independent full heroine paths and dead-end choices. Supplies the default second evidence lane. Different optional choices and transcriptions are retained as evidence, not assumed to be target-exact."
+    },
+    {
+      "url": "https://asobigokoro.work/Game-strategy-site/tsukihime-alucard-story-walkthrough-flowchart-a-piece-of-blue-glass-moon/",
+      "title": "Asobigokoro — Arcueid save checkpoints",
+      "language": "ja",
+      "set": "B",
+      "notes": "Directly inspected numbered checkpoints and endings. Local saves 1–10 map to global 2–11. Later page updates do not themselves prove all 2024 target text is unchanged."
+    },
+    {
+      "url": "https://asobigokoro.work/Game-strategy-site/tsukihime-a-piece-of-blue-glass-moon-ciel-story-strategy-flowchart/",
+      "title": "Asobigokoro — Ciel save checkpoints and additional choices",
+      "language": "ja",
+      "set": "B",
+      "notes": "Directly inspected local saves 3–13 (global 12–22), Normal-to-True reload and supplementary choices. Includes a distinct No.15 chain not mixed into KANNAGI's selected chain. Exact-release text verification remains open."
+    },
+    {
+      "url": "https://www.nookgaming.com/tsukihime-a-piece-of-blue-glass-moon-walkthrough-guide/",
+      "title": "NookGaming — English reference and completion instructions",
+      "language": "en",
+      "notes": "Supplementary only. English hints are explanatory translations, not guaranteed official localization strings."
+    },
+    {
+      "url": "https://game-firstimpression.com/game-capture/tsukihime-flowchart/",
+      "title": "Game × First Impression — common-route flowchart and Ciel entry conditions",
+      "language": "ja",
+      "notes": "Supplementary independent check: Day 3 俺の wording and Day 5 route commitment."
+    },
+    {
+      "url": "https://ponkotugamer.com/2021/tsukihimer2/",
+      "title": "Ponkotu Gamer — trophies, delayed endings, and affection-dependent flowchart variants",
+      "language": "ja",
+      "notes": "Supplementary independent check: Day 3 wording, delayed Dead End 15, and distinction between Extra access and high-affection scene completion."
+    },
+    {
+      "url": "https://api.vndb.org/kana/character",
+      "title": "VNDB character API — v17909 character images",
+      "language": "en",
+      "notes": "Nested vn filter verified c94783 Arcueid and c94784 Ciel with the portrait URLs used in this manifest."
+    },
+    {
+      "url": "https://vndb.org/r124431",
+      "title": "VNDB — 2024 Switch Download Edition",
+      "language": "en",
+      "notes": "Release metadata directly verified through VNDB Kana release endpoint: v17909, Switch, 2024-06-27, Japanese text, and cover https://t.vndb.org/cv/87/86687.jpg. Metadata only; not an independent Japanese walkthrough."
+    }
+  ],
+  "generated_at": "2026-10-27T19:06:39Z"
+}
