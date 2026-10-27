@@ -14,6 +14,8 @@ const routes = await Promise.all(guide.routes.map(async route => ({
 test("Tsukihime keeps one explicit Switch target and source record across its catalog and guide", () => {
   const entry = games.v17909;
   assert.equal(entry.slug, "tsukihime-remake");
+  assert.ok(!entry.has_guide || guide.routes.every(route => route.reviewed === true),
+    "An unapproved Tsukihime draft must remain unavailable in the catalog");
   assert.equal(entry.title, guide.title);
   assert.equal(guide.title, research.title);
   assert.equal(guide.vndb_id, research.vndb_id);
