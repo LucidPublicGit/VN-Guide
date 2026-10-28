@@ -112,7 +112,25 @@
       "title": "VNDB — 2021 Japanese Switch Download Edition",
       "language": "en",
       "notes": "Release metadata directly verified through VNDB Kana release endpoint: v17909, Switch, 2021-08-26, Japanese only, and digital cover https://t.vndb.org/cv/86/86686.jpg. Metadata only; not an independent Japanese walkthrough."
+    },
+    {
+      "url": "https://twitter.com/TM_TSUKIHIME/status/1432992458451812354",
+      "title": "Official Tsukihime — 2021 choices tip (5)",
+      "language": "ja",
+      "notes": "Supplemental literal reconciliation only, not a replacement Set A/B. Official post metadata directly inspected at https://cdn.syndication.twimg.com/tweet-result?id=1432992458451812354&lang=ja&token=0: account 【公式】月姫 / TM_TSUKIHIME, timestamp 2021-09-01T09:03:20Z, one 1920x1080 photo E-MB_x8VgAIvqJy. The date establishes original-release context, not the capture hardware."
+    },
+    {
+      "url": "https://pbs.twimg.com/media/E-MB_x8VgAIvqJy.jpg?name=orig",
+      "title": "Official 2021 menu still — Day 3 reality choice",
+      "language": "ja",
+      "notes": "Actual public image pixels directly inspected, option 2 in lower portion: ……いや、俺の起こした現実だ。 Supports existing Ciel Normal step 13 simpleJp over KANNAGI's が transcription, without changing jpGuide1/jpGuide2. Still image, no video timecode. Original official console-product evidence; no visible Switch/PS4, build or download-edition identifier. Reviewer acceptance for r82483 remains outstanding; no claim about the other 13 disputed strings."
+    },
+    {
+      "url": "https://typemoon.com/products/tsukihime/",
+      "title": "TYPE-MOON — original console product context",
+      "language": "ja",
+      "notes": "Directly inspected official product table identifies 発売日 2021年8月26日 and 対象機種 PlayStation®4／Nintendo Switch™, with download editions. Establishes the original two-platform product context of the official 2021 tip, not the hardware used for its screenshot. No PS4-to-Switch or 2021-to-2024 equivalence is inferred from publication date alone."
     }
   ],
-  "generated_at": "2026-10-28T00:06:59Z"
+  "generated_at": "2026-10-28T00:22:01Z"
 }
