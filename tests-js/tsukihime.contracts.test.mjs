@@ -104,3 +104,22 @@ test("Tsukihime preserves delayed No.15 and reconstructs the No.14 conversation 
   assert.equal(main.filter(s => s.simpleJp === "……よくはない。今こそきちんと話すべきだ。").length, 1);
   assert.equal(main.filter(s => s.simpleJp === "……アルクェイドの事なんですが……").length, 1);
 });
+
+test("Tsukihime reconciled literals preserve the extracted choice payloads exactly", async () => {
+  const evidence = await json("tsukihime-remake/menu-text-evidence.json");
+  assert.equal(evidence.target, guide.guide_target.url);
+  assert.equal(evidence.choices.length, 13);
+  assert.equal(new Set(evidence.choices.map(choice => choice.text_id)).size, 13);
+  for (const choice of evidence.choices) {
+    const route = routes.find(route => route.id === choice.route);
+    assert.equal(route.steps[choice.step].simpleJp, choice.text);
+    assert.ok(choice.references.length > 0);
+    for (const reference of choice.references) {
+      assert.ok(reference.args.split(",").includes(`$${String(choice.text_id).padStart(6, "0")}`));
+    }
+  }
+  for (const id of [42734, 42735]) {
+    assert.ok(evidence.choices.find(choice => choice.text_id === id).text.includes("？\u3000と"));
+  }
+  assert.ok(evidence.choices.find(choice => choice.text_id === 42751).text.includes("眼鏡は"));
+});

@@ -123,14 +123,26 @@
       "url": "https://pbs.twimg.com/media/E-MB_x8VgAIvqJy.jpg?name=orig",
       "title": "Official 2021 menu still — Day 3 reality choice",
       "language": "ja",
-      "notes": "Actual public image pixels directly inspected, option 2 in lower portion: ……いや、俺の起こした現実だ。 Supports existing Ciel Normal step 13 simpleJp over KANNAGI's が transcription, without changing jpGuide1/jpGuide2. Still image, no video timecode. Original official console-product evidence; no visible Switch/PS4, build or download-edition identifier. Reviewer acceptance for r82483 remains outstanding; no claim about the other 13 disputed strings."
+      "notes": "Actual public image pixels show option 2: ……いや、俺の起こした現実だ。 Independent accuracy re-review accepted this limited original-product literal reconciliation at PR98 issuecomment-6457378314. Neither primary quotation was changed. Hardware/build/download SKU remain unidentified; this is not a hardware capture or proof of other literals."
     },
     {
       "url": "https://typemoon.com/products/tsukihime/",
       "title": "TYPE-MOON — original console product context",
       "language": "ja",
       "notes": "Directly inspected official product table identifies 発売日 2021年8月26日 and 対象機種 PlayStation®4／Nintendo Switch™, with download editions. Establishes the original two-platform product context of the official 2021 tip, not the hardware used for its screenshot. No PS4-to-Switch or 2021-to-2024 equivalence is inferred from publication date alone."
+    },
+    {
+      "url": "./menu-text-evidence.json",
+      "title": "Original Japanese assets — 13 extracted SELR choice payloads",
+      "language": "ja",
+      "notes": "Supplemental direct-text reconciliation, not a replacement Set A/B. At the caller's request the author read the locally installed original Japanese assets without launching the game or modifying saves. Ledger includes only the 13 disputed strings, input hashes, text IDs and scene instruction references. Packaging/patch provenance limits are explicit in the ledger and menu-text-evidence.md; independent review is pending."
+    },
+    {
+      "url": "https://github.com/AuroraWright/knife/tree/794bcc5e14be6bd4bf44716f160a280f4306ab1d",
+      "title": "Knife 0.9.0 pinned original Switch-data parsers",
+      "language": "en",
+      "notes": "Public decoder implementation and build selector, not a Japanese walkthrough. Relevant local parser/source files were checked byte-identical to this commit. ScriptText reads string payloads; SceneArchive plus vm::parse cross-reference SELR instructions. The supplied read-only verify-choice-text.rs reproduces the 13-string check on a user's own assets."
     }
   ],
-  "generated_at": "2026-10-28T00:22:01Z"
+  "generated_at": "2026-10-28T00:57:12Z"
 }
