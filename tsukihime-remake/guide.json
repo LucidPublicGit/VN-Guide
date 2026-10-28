@@ -10,19 +10,19 @@
     {
       "id": "arcueid",
       "title": "1. アルクェイド / Arcueid + Dead Ends 01–11",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/38/116538.jpg"
     },
     {
       "id": "ciel_normal",
       "title": "2. シエル Normal / 夜の虹 + Dead Ends 12–19",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/116539.jpg"
     },
     {
       "id": "ciel_extra",
       "title": "3. シエル Extra / 白日の碧 + Dead Ends 20–21",
-      "reviewed": false,
+      "reviewed": true,
       "portrait": "https://t.vndb.org/ch/39/116539.jpg"
     }
   ],
@@ -156,5 +156,5 @@
       "notes": "Public decoder implementation and build selector, not a Japanese walkthrough. Relevant local parser/source files were checked byte-identical to this commit. ScriptText reads string payloads; SceneArchive plus vm::parse cross-reference SELR instructions. The supplied read-only verify-choice-text.rs reproduces the 13-string check on a user's own assets."
     }
   ],
-  "generated_at": "2026-10-28T19:12:04Z"
+  "generated_at": "2026-10-28T19:25:11Z"
 }
