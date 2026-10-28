@@ -23,8 +23,8 @@ test("Tsukihime keeps one explicit Switch target and source record across its ca
   assert.deepEqual(entry.guide_target, guide.guide_target);
   assert.deepEqual(guide.guide_target, research.guide_target);
   assert.equal(guide.guide_target.platform, "Nintendo Switch");
-  assert.equal(guide.guide_target.url, "https://vndb.org/r124431");
-  assert.equal(entry.cover_url, "https://t.vndb.org/cv/87/86687.jpg");
+  assert.equal(guide.guide_target.url, "https://vndb.org/r82483");
+  assert.equal(entry.cover_url, "https://t.vndb.org/cv/86/86686.jpg");
   assert.deepEqual(guide.sources, research.sources);
   assert.deepEqual(routes.map(r => r.id), research.recommended_order);
   assert.deepEqual(research.routes.map(r => r.prerequisites), [[], ["arcueid"], ["ciel_normal"]]);

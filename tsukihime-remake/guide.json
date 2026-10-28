@@ -2,9 +2,9 @@
   "title": "Tsukihime -A piece of blue glass moon-",
   "vndb_id": "v17909",
   "guide_target": {
-    "label": "Tsukihime -A piece of blue glass moon- Download Edition (2024, Japanese text)",
+    "label": "Tsukihime -A piece of blue glass moon- Download Edition (2021, Japanese)",
     "platform": "Nintendo Switch",
-    "url": "https://vndb.org/r124431"
+    "url": "https://vndb.org/r82483"
   },
   "routes": [
     {
@@ -32,14 +32,14 @@
       "title": "KANNAGI — route order and unlock conditions",
       "language": "ja",
       "set": "A",
-      "notes": "Directly inspected overview: Arcueid then Ciel Normal then True; affection and unlock conditions. Covers the 2021 remake; exact 2024 target equivalence remains unverified."
+      "notes": "Directly inspected overview: Arcueid then Ciel Normal then True; affection and unlock conditions. Its original 2021 remake product context is the basis for the retargeted original Switch guide, not evidence about 2024."
     },
     {
       "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-common",
       "title": "KANNAGI — common opening checkpoint",
       "language": "ja",
       "set": "A",
-      "notes": "Directly inspected common opening and source-backed save before the first choice. Original remake walkthrough; exact-release caveat applies."
+      "notes": "Directly inspected common opening and source-backed save before the first choice. Component of the original 2021 remake walkthrough set."
     },
     {
       "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-arcueid-brunestud",
@@ -60,7 +60,7 @@
       "title": "KANNAGI — complete dead-end paths, including delayed 15",
       "language": "ja",
       "set": "A",
-      "notes": "Directly inspected all 21 endings, the complete delayed No.15 chain and both No.14 entrances. Do not concatenate alternative paths. Original remake walkthrough; exact-release caveat applies."
+      "notes": "Directly inspected all 21 endings, the complete delayed No.15 chain and both No.14 entrances. Do not concatenate alternative paths. Component of the original 2021 remake walkthrough set."
     },
     {
       "url": "https://xneo.jp/tsukihime/",
@@ -74,7 +74,7 @@
       "title": "Asobigokoro — Arcueid save checkpoints",
       "language": "ja",
       "set": "B",
-      "notes": "Directly inspected numbered checkpoints and endings. Local saves 1–10 map to global 2–11. Later page updates do not themselves prove all 2024 target text is unchanged."
+      "notes": "Directly inspected numbered checkpoints and endings. Local saves 1–10 map to global 2–11. Original remake routing corroboration; later page update dates are not used as evidence for another edition."
     },
     {
       "url": "https://asobigokoro.work/Game-strategy-site/tsukihime-a-piece-of-blue-glass-moon-ciel-story-strategy-flowchart/",
@@ -87,7 +87,7 @@
       "url": "https://www.nookgaming.com/tsukihime-a-piece-of-blue-glass-moon-walkthrough-guide/",
       "title": "NookGaming — English reference and completion instructions",
       "language": "en",
-      "notes": "Supplementary only. English hints are explanatory translations, not guaranteed official localization strings."
+      "notes": "Supplementary English reference only, not a Japanese verification lane or proof of 2021/2024 equivalence. English hints are explanatory translations, not guaranteed official localization strings."
     },
     {
       "url": "https://game-firstimpression.com/game-capture/tsukihime-flowchart/",
@@ -108,11 +108,11 @@
       "notes": "Nested vn filter verified c94783 Arcueid and c94784 Ciel with the portrait URLs used in this manifest."
     },
     {
-      "url": "https://vndb.org/r124431",
-      "title": "VNDB — 2024 Switch Download Edition",
+      "url": "https://vndb.org/r82483",
+      "title": "VNDB — 2021 Japanese Switch Download Edition",
       "language": "en",
-      "notes": "Release metadata directly verified through VNDB Kana release endpoint: v17909, Switch, 2024-06-27, Japanese text, and cover https://t.vndb.org/cv/87/86687.jpg. Metadata only; not an independent Japanese walkthrough."
+      "notes": "Release metadata directly verified through VNDB Kana release endpoint: v17909, Switch, 2021-08-26, Japanese only, and digital cover https://t.vndb.org/cv/86/86686.jpg. Metadata only; not an independent Japanese walkthrough."
     }
   ],
-  "generated_at": "2026-10-27T19:06:39Z"
+  "generated_at": "2026-10-28T00:06:59Z"
 }
