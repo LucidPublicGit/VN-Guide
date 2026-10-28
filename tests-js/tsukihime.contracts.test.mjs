@@ -123,3 +123,17 @@ test("Tsukihime reconciled literals preserve the extracted choice payloads exact
   }
   assert.ok(evidence.choices.find(choice => choice.text_id === 42751).text.includes("眼鏡は"));
 });
+
+test("Tsukihime records the owner provenance waiver without dropping source disagreements", async () => {
+  const supplement = await readFile(new URL("../tsukihime-remake/prompt_supplement.md", import.meta.url), "utf8");
+  const evidence = await json("tsukihime-remake/menu-text-evidence.json");
+  assert.ok(supplement.includes("issuecomment-6476454232"));
+  assert.ok(research.source_policy.literal_reconciliation.includes("issuecomment-6476454232"));
+  for (const choice of evidence.choices) {
+    assert.ok(supplement.includes(`| \`route_${choice.route}.json\` | ${choice.step} | ${choice.text_id} |`));
+  }
+  const silent = routes.find(route => route.id === "ciel_normal").steps[44];
+  assert.notEqual(silent.jpGuide1, silent.jpGuide2);
+  assert.match(silent.enGuide, /independently reproduced/);
+  assert.doesNotMatch(silent.enGuide, /remains unverified/);
+});

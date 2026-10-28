@@ -46,14 +46,14 @@
       "title": "KANNAGI — Arcueid choices",
       "language": "ja",
       "set": "A",
-      "notes": "Directly inspected complete Arcueid day-by-day path and optional choices. Selected continuous path follows this component. Original remake walkthrough; target text verification remains open."
+      "notes": "Directly inspected complete Arcueid day-by-day path and optional choices. Selected continuous path follows this original-remake component. Preserve transcription differences verbatim; the 13-literal owner provenance waiver and independent asset evidence are documented in prompt_supplement.md."
     },
     {
       "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-ciel",
       "title": "KANNAGI — Ciel choices",
       "language": "ja",
       "set": "A",
-      "notes": "Directly inspected Ciel day-by-day path through Normal and True. Original remake walkthrough; target text verification remains open."
+      "notes": "Directly inspected Ciel day-by-day path through Normal and True. Original-remake route evidence remains required. Literal differences are preserved; only the enumerated payloads use the independently reproduced remake evidence under the owner's narrow provenance waiver."
     },
     {
       "url": "https://kannagi35.com/content/tsukihime-a-piece-of-blue-glass-moon-route-bad-end",
@@ -81,7 +81,7 @@
       "title": "Asobigokoro — Ciel save checkpoints and additional choices",
       "language": "ja",
       "set": "B",
-      "notes": "Directly inspected local saves 3–13 (global 12–22), Normal-to-True reload and supplementary choices. Includes a distinct No.15 chain not mixed into KANNAGI's selected chain. Exact-release text verification remains open."
+      "notes": "Directly inspected local saves 3–13 (global 12–22), Normal-to-True reload and supplementary choices. Includes a distinct No.15 chain not mixed into KANNAGI's selected chain. Preserve its literal quotations; the enumerated discrepancies use reproduced remake payloads under the narrow owner provenance waiver, not assumed A/B agreement."
     },
     {
       "url": "https://www.nookgaming.com/tsukihime-a-piece-of-blue-glass-moon-walkthrough-guide/",
@@ -135,7 +135,19 @@
       "url": "./menu-text-evidence.json",
       "title": "Original Japanese assets — 13 extracted SELR choice payloads",
       "language": "ja",
-      "notes": "Supplemental direct-text reconciliation, not a replacement Set A/B. At the caller's request the author read the locally installed original Japanese assets without launching the game or modifying saves. Ledger includes only the 13 disputed strings, input hashes, text IDs and scene instruction references. Packaging/patch provenance limits are explicit in the ledger and menu-text-evidence.md; independent review is pending."
+      "notes": "Supplemental direct-text reconciliation, not a replacement Set A/B. Independent r3 reproduced all 13 menu payloads and 14 SELR references after rehashing the inputs and freshly compiling the verifier (PR98 issuecomment-6461638207). Owner kanjieater accepted these literals on 2026-10-28 conditional on remake attribution, waiving only exact storefront/patch provenance (issuecomment-6476454232; prompt_supplement.md). Pinned Knife and remake-specific scenes support that condition. No exact package/patch identity, gameplay execution or broader equivalence is claimed."
+    },
+    {
+      "url": "https://github.com/kanjieater/VN-Guide/pull/98#issuecomment-6476454232",
+      "title": "Repository owner — 13-literal provenance waiver (2026-10-28)",
+      "language": "en",
+      "notes": "Explicit owner authorization, not a walkthrough or whole-guide approval. Applies only to the exact 3 Arcueid and 10 Ciel Normal payloads enumerated in prompt_supplement.md. Remake attribution is mandatory; exact storefront/download packaging and patch provenance are waived for those literals only. Two Japanese sets, verbatim lanes and all other review requirements remain in force."
+    },
+    {
+      "url": "https://github.com/kanjieater/VN-Guide/pull/98#issuecomment-6461638207",
+      "title": "Independent accuracy r3 — direct remake asset reproduction",
+      "language": "en",
+      "notes": "Independent rehashing, fresh verifier compilation, separate KDU reads and all 13 payload/14 SELR checks; not a new Japanese walkthrough lane. Establishes reproducibility and remake evidence, not exact storefront/patch identity. The owner's subsequent narrow provenance decision governs these 13 literals; revised content still requires fresh accuracy review."
     },
     {
       "url": "https://github.com/AuroraWright/knife/tree/794bcc5e14be6bd4bf44716f160a280f4306ab1d",
@@ -144,5 +156,5 @@
       "notes": "Public decoder implementation and build selector, not a Japanese walkthrough. Relevant local parser/source files were checked byte-identical to this commit. ScriptText reads string payloads; SceneArchive plus vm::parse cross-reference SELR instructions. The supplied read-only verify-choice-text.rs reproduces the 13-string check on a user's own assets."
     }
   ],
-  "generated_at": "2026-10-28T00:57:12Z"
+  "generated_at": "2026-10-28T19:12:04Z"
 }

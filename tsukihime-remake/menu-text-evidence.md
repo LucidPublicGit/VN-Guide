@@ -36,8 +36,22 @@ limit is disclosed rather than claiming a particular capture device or binary
 identity across releases. No 2024 equivalence is asserted.
 
 The original 2021 target is supported separately by the two Japanese
-walkthrough sets. Whether this extraction resolves their literal discrepancies
-is subject to independent accuracy review; the author grants no approval.
+walkthrough sets. [Independent r3 review](https://github.com/kanjieater/VN-Guide/pull/98#issuecomment-6461638207)
+rehashed both archives, freshly compiled the verifier and separately ran KDU,
+reproducing all 13 payloads and 14 SELR references.
+
+On **2026-10-28**, the [repository owner](https://github.com/kanjieater/VN-Guide/pull/98#issuecomment-6476454232)
+accepted these 13 literals conditional on attribution to the remake, waiving
+only exact storefront/download packaging and patch-build provenance. The
+pinned Knife README explicitly identifies the Switch remake, its build selector
+recognizes the Japanese archive class, and the referenced Arcueid/Ciel scenes
+are remake-specific, not from the original Tsukihime. See
+`prompt_supplement.md` for exact covered steps and unchanged requirements.
+
+This is an authorized provenance limit, not proof of package/patch identity,
+a waiver of two Japanese walkthrough sets, or whole-guide approval. Independent
+review of the revised route/research content remains required; the author
+grants no approval.
 
 ## Reproduce without starting the game
 
